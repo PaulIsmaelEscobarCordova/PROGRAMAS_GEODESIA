@@ -1,0 +1,1456 @@
+pdirectogeodesia(-2.381259811111111,-77.23365765,176.80694)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.85498'
+Calculamos M su valor es: 
+El valor de M es: 6335549.15250'
+Ingrese el valor de la distancia en el elipsoide: 
+  45.990969620856028
+
+s =
+
+  45.990969620856028
+
+
+Fi =
+
+  -2.381267059033644
+
+El valor de la latitud es: -2.38127'
+
+Landa =
+
+ -77.233657248013785
+
+El valor de longitud es: -77.23366'
+
+Az =
+
+     3.568069399832964e+02
+
+El valor de az1 es: 356.80694'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38126705903364    -77.2336572480138    356.806939983296
+
+
+ans =
+
+  -2.381267059033644
+
+% el valor es 102.7663
+pdirectogeodesia(-2.3807184472222223,-77.50278890555556,191.898611111111)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83824'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10260'
+Ingrese el valor de la distancia en el elipsoide: 
+43.987788147875975
+
+s =
+
+  43.987788147875975
+
+
+Fi =
+
+  -2.380725241055690
+
+El valor de la latitud es: -2.38073'
+
+Landa =
+
+ -77.502790328730953
+
+El valor de longitud es: -77.50279'
+
+Az =
+
+  11.898611170233707
+
+El valor de az1 es: 11.89861'
+           <strong>Fi</strong>                 <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    -2.38072524105569    -77.502790328731    11.8986111702337
+
+
+ans =
+
+  -2.380725241055690
+
+pdirectogeodesia(-2.3802341694444444,-77.50264318888888,192.568055555556)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.82326'
+Calculamos M su valor es: 
+El valor de M es: 6335549.05797'
+Ingrese el valor de la distancia en el elipsoide: 
+38.375571757651436
+
+s =
+
+  38.375571757651436
+
+
+Fi =
+
+  -2.380240081485323
+
+El valor de la latitud es: -2.38024'
+
+Landa =
+
+ -77.502644499248717
+
+El valor de longitud es: -77.50264'
+
+Az =
+
+  12.568055609980377
+
+El valor de az1 es: 12.56806'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38024008148532    -77.5026444992487    12.5680556099804
+
+
+ans =
+
+  -2.380240081485323
+
+pdirectogeodesia(-2.3811171055555556,-77.5027661,167.038888888889)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.85057'
+Calculamos M su valor es: 
+El valor de M es: 6335549.13935'
+Ingrese el valor de la distancia en el elipsoide: 
+   7.453136240254773
+
+s =
+
+   7.453136240254773
+
+
+Fi =
+
+  -2.381118251983271
+
+El valor de la latitud es: -2.38112'
+
+Landa =
+
+ -77.502765837682588
+
+El valor de longitud es: -77.50277'
+
+Az =
+
+     3.470388888779905e+02
+
+El valor de az1 es: 347.03889'
+           <strong>Fi</strong>                  <strong>Landa</strong>                <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>_______________</strong>
+
+    -2.38111825198327    -77.5027658376826    347.03888887799
+
+
+ans =
+
+  -2.381118251983271
+
+% az=167.03888 
+pdirectogeodesia(-2.381095488888889,-77.50276867777778,144.727777777778)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.84990'
+Calculamos M su valor es: 
+El valor de M es: 6335549.13735'
+Ingrese el valor de la distancia en el elipsoide: 
+   6.664901739827962
+
+s =
+
+   6.664901739827962
+
+
+Fi =
+
+  -2.381096347747882
+
+El valor de la latitud es: -2.38110'
+
+Landa =
+
+ -77.502768073834886
+
+El valor de longitud es: -77.50277'
+
+Az =
+
+     3.247277777526863e+02
+
+El valor de az1 es: 324.72778'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38109634774788    -77.5027680738349    324.727777752686
+
+
+ans =
+
+  -2.381096347747882
+
+%az=144.72777
+pdirectogeodesia(-2.381125030555556,-77.50287484444445,158.383333333333)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.85081'
+Calculamos M su valor es: 
+El valor de M es: 6335549.14008'
+Ingrese el valor de la distancia en el elipsoide: 
+   5.894609414832044
+
+s =
+
+   5.894609414832044
+
+
+Fi =
+
+  -2.381125895522056
+
+El valor de la latitud es: -2.38113'
+
+Landa =
+
+ -77.502874503685263
+
+El valor de longitud es: -77.50287'
+
+Az =
+
+     3.383833333191754e+02
+
+El valor de az1 es: 338.38333'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38112589552206    -77.5028745036853    338.383333319175
+
+
+ans =
+
+  -2.381125895522056
+
+%158.3833
+pdirectogeodesia(-2.3811063194444446,-77.50287560833333,155.134722222222)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.85023'
+Calculamos M su valor es: 
+El valor de M es: 6335549.13835'
+Ingrese el valor de la distancia en el elipsoide: 
+   7.391487773771866
+
+s =
+
+   7.391487773771866
+
+
+Fi =
+
+  -2.381107377961916
+
+El valor de la latitud es: -2.38111'
+
+Landa =
+
+ -77.502875120622647
+
+El valor de longitud es: -77.50288'
+
+Az =
+
+     3.351347222019592e+02
+
+El valor de az1 es: 335.13472'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38110737796192    -77.5028751206226    335.134722201959
+
+
+ans =
+
+  -2.381107377961916
+
+%155.13442
+pdirectogeodesia(-2.3810564916666666,-77.5027122,437,133.154166666667)
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('pdirectogeodesia')" style="font-weight:bold">pdirectogeodesia</a>
+Too many input arguments.
+} 
+pdirectogeodesia(-2.3810564916666666,-77.5027122,133.154166666667)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.84869'
+Calculamos M su valor es: 
+El valor de M es: 6335549.13376'
+Ingrese el valor de la distancia en el elipsoide: 
+11.124386792791979
+
+s =
+
+  11.124386792791979
+
+
+Fi =
+
+  -2.381057692616573
+
+El valor de la latitud es: -2.38106'
+
+Landa =
+
+ -77.502710926527158
+
+El valor de longitud es: -77.50271'
+
+Az =
+
+     3.131541666137595e+02
+
+El valor de az1 es: 313.15417'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38105769261657    -77.5027109265272    313.154166613759
+
+
+ans =
+
+  -2.381057692616573
+
+%133.15416
+pdirectogeodesia(-2.380773797222222,-77.50275013611112,153.152777777778)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83995'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10770'
+Ingrese el valor de la distancia en el elipsoide: 
+11.424291068598235
+
+s =
+
+  11.424291068598235
+
+
+Fi =
+
+  -2.380775406066403
+
+El valor de la latitud es: -2.38078'
+
+Landa =
+
+ -77.502749326503761
+
+El valor de longitud es: -77.50275'
+
+Az =
+
+     3.331527777441460e+02
+
+El valor de az1 es: 333.15278'
+           <strong>Fi</strong>                 <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.3807754060664    -77.5027493265038    333.152777744146
+
+
+ans =
+
+  -2.380775406066403
+
+%153.15277
+pdirectogeodesia(-2.3807742083333334,-77.50276705277778,148.426388888889)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83996'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10774'
+Ingrese el valor de la distancia en el elipsoide: 
+  13.602755709650824
+
+s =
+
+  13.602755709650824
+
+
+Fi =
+
+  -2.380776037553600
+
+El valor de la latitud es: -2.38078'
+
+Landa =
+
+ -77.502765935142989
+
+El valor de longitud es: -77.50277'
+
+Az =
+
+     3.284263888424610e+02
+
+El valor de az1 es: 328.42639'
+           <strong>Fi</strong>                <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    -2.3807760375536    -77.502765935143    328.426388842461
+
+
+ans =
+
+  -2.380776037553600
+
+%148.42633
+pdirectogeodesia(-2.3807742083333334,-77.50276705277778,148.426388888889)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('pdirectogeodesia', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\pdirectogeodesia.m', 16)" style="font-weight:bold">pdirectogeodesia</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\pdirectogeodesia.m',16,0)">line 16</a>)
+} 
+pdirectogeodesia(-2.380766788888889,-77.5027667388889,131.865277777778)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83973'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10705'
+Ingrese el valor de la distancia en el elipsoide: 
+   8.933610688961661
+
+s =
+
+   8.933610688961661
+
+
+Fi =
+
+  -2.380767729947836
+
+El valor de la latitud es: -2.38077'
+
+Landa =
+
+ -77.502765694898557
+
+El valor de longitud es: -77.50277'
+
+Az =
+
+     3.118652777344099e+02
+
+El valor de az1 es: 311.86528'
+           <strong>Fi</strong>                  <strong>Landa</strong>                <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>_______________</strong>
+
+    -2.38076772994784    -77.5027656948986    311.86527773441
+
+
+ans =
+
+  -2.380767729947836
+
+
+%131.86527
+pdirectogeodesia(-2.380764188888889,-77.50274058333333,88.5027777777778)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83965'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10682'
+Ingrese el valor de la distancia en el elipsoide: 
+   1.778794420766309
+
+s =
+
+   1.778794420766309
+
+
+Fi =
+
+  -2.380764181552948
+
+El valor de la latitud es: -2.38076'
+
+Landa =
+
+ -77.502740304299962
+
+El valor de longitud es: -77.50274'
+
+Az =
+
+     2.685027777661867e+02
+
+El valor de az1 es: 268.50278'
+           <strong>Fi</strong>                <strong>Landa</strong>                <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>______________</strong>    <strong>________________</strong>
+
+    -2.38076418155295    -77.5027403043    268.502777766187
+
+
+ans =
+
+  -2.380764181552948
+
+%88.50277
+pdirectogeodesia(-2.3808076472222224,-77.50274422222222,102.929166666667)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.84100'
+Calculamos M su valor es: 
+El valor de M es: 6335549.11082'
+Ingrese el valor de la distancia en el elipsoide: 
+   1.679739812210974
+
+s =
+
+   1.679739812210974
+
+
+Fi =
+
+  -2.380807706543923
+
+El valor de la latitud es: -2.38081'
+
+Landa =
+
+ -77.502743965319766
+
+El valor de longitud es: -77.50274'
+
+Az =
+
+     2.829291666559951e+02
+
+El valor de az1 es: 282.92917'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38080770654392    -77.5027439653198    282.929166655995
+
+
+ans =
+
+  -2.380807706543923
+
+%192.9291
+pdirectogeodesia(-2.3808059833333335,-77.50273564166666,67.9416666666667)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.84094'
+Calculamos M su valor es: 
+El valor de M es: 6335549.11067'
+Ingrese el valor de la distancia en el elipsoide: 
+   3.139278916372010
+
+s =
+
+   3.139278916372010
+
+
+Fi =
+
+  -2.380805797247270
+
+El valor de la latitud es: -2.38081'
+
+Landa =
+
+ -77.502735185109088
+
+El valor de longitud es: -77.50274'
+
+Az =
+
+     2.479416666477009e+02
+
+El valor de az1 es: 247.94167'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38080579724727    -77.5027351851091    247.941666647701
+
+
+ans =
+
+  -2.380805797247270
+
+
+%67.941666
+pdirectogeodesia(-2.3808001305555555,-77.50269862222223,36.8333333333333)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.84076'
+Calculamos M su valor es: 
+El valor de M es: 6335549.11013'
+Ingrese el valor de la distancia en el elipsoide: 
+  10.676531748597963
+
+s =
+
+  10.676531748597963
+
+
+Fi =
+
+  -2.380798781767677
+
+El valor de la latitud es: -2.38080'
+
+Landa =
+
+ -77.502697617860093
+
+El valor de longitud es: -77.50270'
+
+Az =
+
+     2.168333332916120e+02
+
+El valor de az1 es: 216.83333'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38079878176768    -77.5026976178601    216.833333291612
+
+
+ans =
+
+  -2.380798781767677
+
+%36.8333
+pdirectogeodesia(-2.3807164944444446,-77.50270914444444,279.447222222222)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83818'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10242'
+Ingrese el valor de la distancia en el elipsoide: 
+   2.560952675465670
+
+s =
+
+   2.560952675465670
+
+
+Fi =
+
+  -2.380716428096243
+
+El valor de la latitud es: -2.38072'
+
+Landa =
+
+ -77.502709540859058
+
+El valor de longitud es: -77.50271'
+
+Az =
+
+  99.447222238688823
+
+El valor de az1 es: 99.44722'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38071642809624    -77.5027095408591    99.4472222386888
+
+
+ans =
+
+  -2.380716428096243
+
+pdirectogeodesia(-2.380722027777778,-77.50277351388888,197.230555555556)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83835'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10293'
+Ingrese el valor de la distancia en el elipsoide: 
+   4.397999242387578
+
+s =
+
+   4.397999242387578
+
+
+Fi =
+
+  -2.380722690801500
+
+El valor de la latitud es: -2.38072'
+
+Landa =
+
+ -77.502773718318807
+
+El valor de longitud es: -77.50277'
+
+Az =
+
+  17.230555564047989
+
+El valor de az1 es: 17.23056'
+           <strong>Fi</strong>                 <strong>Landa</strong>                <strong>Az</strong>       
+    <strong>________________</strong>    <strong>_________________</strong>    <strong>_______________</strong>
+
+    -2.3807226908015    -77.5027737183188    17.230555564048
+
+
+ans =
+
+  -2.380722690801500
+
+pdirectogeodesia(-2.3807128416666665,-77.50277506944444,228.513888888889)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83806'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10208'
+Ingrese el valor de la distancia en el elipsoide: 
+   5.138931837996222
+
+s =
+
+   5.138931837996222
+
+
+Fi =
+
+  -2.380713378988069
+
+El valor de la latitud es: -2.38071'
+
+Landa =
+
+ -77.502775673533250
+
+El valor de longitud es: -77.50278'
+
+Az =
+
+  48.513888913982605
+
+El valor de az1 es: 48.51389'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38071337898807    -77.5027756735333    48.5138889139826
+
+
+ans =
+
+  -2.380713378988069
+
+pdirectogeodesia(2.3806954583333333,-77.502771725,234.944444444444)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83753'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10048'
+Ingrese el valor de la distancia en el elipsoide: 
+   8.354255034916815
+
+s =
+
+   8.354255034916815
+
+
+Fi =
+
+   2.380694700950318
+
+El valor de la latitud es: 2.38069'
+
+Landa =
+
+ -77.502772798138395
+
+El valor de longitud es: -77.50277'
+
+Az =
+
+  54.944444399867294
+
+El valor de az1 es: 54.94444'
+           <strong>Fi</strong>                 <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    2.38069470095032    -77.5027727981384    54.9444443998673
+
+
+ans =
+
+   2.380694700950318
+
+pdirectogeodesia(-2.3807024194444444,-77.50288361111112,208.236111111111)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83774'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10112'
+Ingrese el valor de la distancia en el elipsoide: 
+     1.062314594063531e+02
+
+s =
+
+     1.062314594063531e+02
+
+
+Fi =
+
+  -2.380717191721446
+
+El valor de la latitud es: -2.38072'
+
+Landa =
+
+ -77.502891497726097
+
+El valor de longitud es: -77.50289'
+
+Az =
+
+  28.236111438772411
+
+El valor de az1 es: 28.23611'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38071719172145    -77.5028914977261    28.2361114387724
+
+
+ans =
+
+  -2.380717191721446
+
+pdirectogeodesia(-2.380740416666667,-77.502795725,182.556944444444)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83892'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10462'
+Ingrese el valor de la distancia en el elipsoide: 
+
+
+s =
+
+     []
+
+
+Fi =
+
+     []
+
+El valor de la latitud es: '
+
+Landa =
+
+     []
+
+El valor de longitud es: '
+
+Az =
+
+     []
+
+El valor de az1 es: '
+
+ans =
+
+     []
+
+   6.704669188084136
+
+ans =
+
+   6.704669188084136
+
+pdirectogeodesia(-2.380740416666667,-77.502795725,182.556944444444)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83892'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10462'
+Ingrese el valor de la distancia en el elipsoide: 
+
+
+s =
+
+     []
+
+
+Fi =
+
+     []
+
+El valor de la latitud es: '
+
+Landa =
+
+     []
+
+El valor de longitud es: '
+
+Az =
+
+     []
+
+El valor de az1 es: '
+
+ans =
+
+     []
+
+   6.704669188084136
+
+ans =
+
+   6.704669188084136
+
+pdirectogeodesia(-2.380740416666667,-77.502795725,182.556944444444)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83892'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10462'
+Ingrese el valor de la distancia en el elipsoide: 
+6.7
+
+s =
+
+   6.700000000000000
+
+
+Fi =
+
+  -2.380741473138523
+
+El valor de la latitud es: -2.38074'
+
+Landa =
+
+ -77.502795771903791
+
+El valor de longitud es: -77.50280'
+
+Az =
+
+   2.556944446392413
+
+El valor de az1 es: 2.55694'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38074147313852    -77.5027957719038    2.55694444639241
+
+
+ans =
+
+  -2.380741473138523
+
+pdirectogeodesia(-2.3807447222222224,-77.50281855277778,185.106944444444)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+   5.26
+Vuelva a escoger los valores correctamente
+pdirectogeodesia(-2.3807447222222224,-77.50281855277778,185.106944444444)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83905'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10502'
+Ingrese el valor de la distancia en el elipsoide: 
+   5.26
+
+s =
+
+   5.260000000000000
+
+
+Fi =
+
+  -2.380745549162272
+
+El valor de la latitud es: -2.38075'
+
+Landa =
+
+ -77.502818626250772
+
+El valor de longitud es: -77.50282'
+
+Az =
+
+   5.106944447496086
+
+El valor de az1 es: 5.10694'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38074554916227    -77.5028186262508    5.10694444749609
+
+
+ans =
+
+  -2.380745549162272
+
+pdirectogeodesia(-2.380745166666667,-77.5028269138889,209.906944444444)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83906'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10506'
+Ingrese el valor de la distancia en el elipsoide: 
+6.26
+
+s =
+
+   6.260000000000000
+
+
+Fi =
+
+  -2.380746023166280
+
+El valor de la latitud es: -2.38075'
+
+Landa =
+
+ -77.502827403666615
+
+El valor de longitud es: -77.50283'
+
+Az =
+
+  29.906944464789529
+
+El valor de az1 es: 29.90694'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38074602316628    -77.5028274036666    29.9069444647895
+
+
+ans =
+
+  -2.380746023166280
+
+pdirectogeodesia(-2.380784561111111,-77.50282435833333,254.402777777778)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.84028'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10869'
+Ingrese el valor de la distancia en el elipsoide: 
+13.798828
+
+s =
+
+  13.798828000000000
+
+
+Fi =
+
+  -2.380785146716773
+
+El valor de la latitud es: -2.38079'
+
+Landa =
+
+ -77.502826443911019
+
+El valor de longitud es: -77.50283'
+
+Az =
+
+  74.402777864414702
+
+El valor de az1 es: 74.40278'
+           <strong>Fi</strong>                 <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    -2.38078514671677    -77.502826443911    74.4027778644147
+
+
+ans =
+
+  -2.380785146716773
+
+pdirectogeodesia(-2.380779197222222,-77.50279171388888,276.345833333333)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.84012'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10820'
+Ingrese el valor de la distancia en el elipsoide: 
+  12.876167124316144
+
+s =
+
+  12.876167124316144
+
+
+Fi =
+
+  -2.380778972585750
+
+El valor de la latitud es: -2.38078'
+
+Landa =
+
+ -77.502793722038717
+
+El valor de longitud es: -77.50279'
+
+Az =
+
+  96.345833416752299
+
+El valor de az1 es: 96.34583'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38077897258575    -77.5027937220387    96.3458334167523
+
+
+ans =
+
+  -2.380778972585750
+
+pdirectogeodesia(-2.3807655305555557,-77.502793175,268.1375)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83969'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10694'
+Ingrese el valor de la distancia en el elipsoide: 
+  45.158428873925907
+
+s =
+
+  45.158428873925907
+
+
+Fi =
+
+  -2.380765762214866
+
+El valor de la latitud es: -2.38077'
+
+Landa =
+
+ -77.502800257523262
+
+El valor de longitud es: -77.50280'
+
+Az =
+
+  88.137500294210540
+
+El valor de az1 es: 88.13750'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38076576221487    -77.5028002575233    88.1375002942105
+
+
+ans =
+
+  -2.380765762214866
+
+pdirectogeodesia(-2.3807677916666665,-77.50281724166666,261.709722222222)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83976'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10715'
+Ingrese el valor de la distancia en el elipsoide: 
+  45.154969330359854
+
+s =
+
+  45.154969330359854
+
+
+Fi =
+
+  -2.380768819329977
+
+El valor de la latitud es: -2.38077'
+
+Landa =
+
+ -77.502824253347057
+
+El valor de longitud es: -77.50282'
+
+Az =
+
+  81.709722513492778
+
+El valor de az1 es: 81.70972'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38076881932998    -77.5028242533471    81.7097225134928
+
+
+ans =
+
+  -2.380768819329977
+
+
+pdirectogeodesia(-2.380751761111111,-77.50290840277778,111.740277777778)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83927'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10567'
+Ingrese el valor de la distancia en el elipsoide: 
+  30.174304160595959
+
+s =
+
+  30.174304160595959
+
+
+Fi =
+
+  -2.380753525213055
+
+El valor de la latitud es: -2.38075'
+
+Landa =
+
+ -77.502904004607515
+
+El valor de longitud es: -77.50290'
+
+Az =
+
+     2.917402775950742e+02
+
+El valor de az1 es: 291.74028'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38075352521305    -77.5029040046075    291.740277595074
+
+
+ans =
+
+  -2.380753525213055
+
+%111.7402
+pdirectogeodesia(-2.3807050444444444,-77.50290676666667,86.1263888888889)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83782'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10136'
+Ingrese el valor de la distancia en el elipsoide: 
+26.678752706552590
+
+s =
+
+  26.678752706552590
+
+
+Fi =
+
+  -2.380704759969310
+
+El valor de la latitud es: -2.38070'
+
+Landa =
+
+ -77.502902589797273
+
+El valor de longitud es: -77.50290'
+
+Az =
+
+     2.661263887153857e+02
+
+El valor de az1 es: 266.12639'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38070475996931    -77.5029025897973    266.126388715386
+
+
+ans =
+
+  -2.380704759969310
+
+%86.12388
+pdirectogeodesia(-2.3807309666666665,-77.50319419166667,127.822222222222)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.83862'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10375'
+Ingrese el valor de la distancia en el elipsoide: 
+  19.578728907459546
+
+s =
+
+  19.578728907459546
+
+
+Fi =
+
+  -2.380732861678340
+
+El valor de la latitud es: -2.38073'
+
+Landa =
+
+ -77.503191764806317
+
+El valor de longitud es: -77.50319'
+
+Az =
+
+     3.078222221214087e+02
+
+El valor de az1 es: 307.82222'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38073286167834    -77.5031917648063    307.822222121409
+
+
+ans =
+
+  -2.380732861678340
+
+%127.8222
+pdirectogeodesia(-2.380776527777778,-77.50319026388888,80.4625)
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+2
+Calculmos el valor de la primera excentricidad: 
+El valor de la primera excentricidad es 0.006694Calculamos N su valor es: 
+El valor de N es: 6378173.84003'
+Calculamos M su valor es: 
+El valor de M es: 6335549.10795'
+Ingrese el valor de la distancia en el elipsoide: 
+6.394154262226527
+
+s =
+
+   6.394154262226527
+
+
+Fi =
+
+  -2.380776360551969
+
+El valor de la latitud es: -2.38078'
+
+Landa =
+
+ -77.503189274386543
+
+El valor de longitud es: -77.50319'
+
+Az =
+
+     2.604624999588957e+02
+
+El valor de az1 es: 260.46250'
+           <strong>Fi</strong>                  <strong>Landa</strong>                 <strong>Az</strong>       
+    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+    -2.38077636055197    -77.5031892743865    260.462499958896
+
+
+ans =
+
+  -2.380776360551969
+
+%80.46249
+diary.off
+{Unable to resolve the name diary.off.
+} 

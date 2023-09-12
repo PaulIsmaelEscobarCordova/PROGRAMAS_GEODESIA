@@ -1,0 +1,2107 @@
+taquimetria(100,1.460,1.230,1,[191 53 55],[90 53 50],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   191    53    55
+    90    53    50
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.918986111111111
+   0.908972222222222
+
+El valor de la DH es 45.988721: 
+El valor de la DI es -0.720307: 
+El valor de la V es -0.720218: 
+El valor de la DV es -0.535218: 
+El valor de la Elevación es 441.339782: 
+Ingrese el valor de la coordenada anterior: 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('taquimetria', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\taquimetria.m', 25)" style="font-weight:bold">taquimetria</a>
+(<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\taquimetria.m',25,0)">line 25</a>)
+} 
+clc
+taquimetria(100,1.460,1.230,1,[191 53 55],[90 53 50],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   191    53    55
+    90    53    50
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.918986111111111
+   0.908972222222222
+
+El valor de la DH es 45.988721: 
+El valor de la DI es -0.720307: 
+El valor de la V es -0.720218: 
+El valor de la DV es -0.535218: 
+El valor de la Elevación es 441.339782: 
+Ingrese el valor de la coordenada anterior: 
+221652.208
+
+E =
+
+     2.216522080000000e+05
+
+El valor de la E1 es 221642.726024: 
+Ingrese el valor de la coordenada anterior: 
+9.736604905999999e+06
+
+N =
+
+     9.736604905999999e+06
+
+
+N1 =
+
+     9.736559905393591e+06
+
+El valor de la E1 es 9736559.905394: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                    <strong>DI</strong>                 <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>________________</strong>
+
+    221642.726024126    9736559.90539359    45.9887208308271    -0.720218412912113    -0.535218412912112    -0.720306727689582    441.339781587088
+
+
+ans =
+
+     2.216427260241263e+05
+
+clc
+taquimetria(100,1.460,1.230,1,[191 53 55],[90 53 50],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   191    53    55
+    90    53    50
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.918986111111111
+   0.908972222222222
+
+El valor de la DH es 45.988721: 
+El valor de la DI es 46.000000: 
+El valor de la V es -0.720218: 
+El valor de la DV es -0.535218: 
+El valor de la Elevación es 441.339782: 
+Ingrese el valor de la coordenada anterior: 
+221652.208
+
+E =
+
+     2.216522080000000e+05
+
+El valor de la E1 es 221642.726024: 
+Ingrese el valor de la coordenada anterior: 
+9736479.58944285
+
+N =
+
+     9.736479589442849e+06
+
+
+N1 =
+
+     9.736434588836441e+06
+
+El valor de la E1 es 9736434.588836: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>            <strong>DI</strong>         <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>__</strong>    <strong>________________</strong>
+
+    221642.726024126    9736434.58883644    45.9887208308271    -0.720218412912113    -0.535218412912112    46    441.339781587088
+
+
+ans =
+
+     2.216427260241263e+05
+
+clc
+taquimetria(100,1.460,1.230,1,[191 53 55],[90 53 50],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   191    53    55
+    90    53    50
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.918986111111111
+   0.908972222222222
+
+El valor de la DH es 45.988721: 
+El valor de la V es -0.720218: 
+El valor de la DI es 45.994360: 
+El valor de la DV es -0.535218: 
+El valor de la Elevación es 441.339782: 
+Ingrese el valor de la coordenada anterior: 
+221641.759424372
+
+E =
+
+     2.216417594243720e+05
+
+El valor de la E1 es 221632.277448: 
+Ingrese el valor de la coordenada anterior: 
+9736479.58944285
+
+N =
+
+     9.736479589442849e+06
+
+
+N1 =
+
+     9.736434588836441e+06
+
+El valor de la E1 es 9736434.588836: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221632.277448498    9736434.58883644    45.9887208308271    -0.720218412912113    -0.535218412912112    45.9943600696656    441.339781587088
+
+
+ans =
+
+     2.216322774484983e+05
+
+taquimetria(100,1.440,1.220,1,[192 34 5],[91 4 35],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   192    34     5
+    91     4    35
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.925680555555556
+   0.910763888888889
+
+El valor de la DH es 43.984473: 
+El valor de la V es -0.826413: 
+El valor de la DI es 43.992236: 
+El valor de la DV es -0.631413: 
+El valor de la Elevación es 441.243587: 
+Ingrese el valor de la coordenada anterior: 
+221642.726024126
+
+E =
+
+     2.216427260241260e+05
+
+El valor de la E1 es 221633.155042: 
+Ingrese el valor de la coordenada anterior: 
+9736559.90539359
+
+N =
+
+     9.736559905393589e+06
+
+
+N1 =
+
+     9.736516974866537e+06
+
+El valor de la E1 es 9736516.974867: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>     
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>_______________</strong>
+
+    221633.155042485    9736516.97486654    43.9844727433746    -0.826412848290259    -0.631412848290259    43.9922356866354    441.24358715171
+
+
+ans =
+
+     2.216331550424847e+05
+
+taquimetria(100,1.384,1.192,1,[167 2 20],[91 47 0],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   167     2    20
+    91    47     0
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.670388888888889
+   0.917833333333333
+
+El valor de la DH es 38.362811: 
+El valor de la V es -1.194430: 
+El valor de la DI es 38.381401: 
+El valor de la DV es -0.971430: 
+El valor de la Elevación es 440.903570: 
+Ingrese el valor de la coordenada anterior: 
+ 221633.155042485
+
+E =
+
+     2.216331550424850e+05
+
+El valor de la E1 es 221641.759424: 
+Ingrese el valor de la coordenada anterior: 
+9736516.97486654
+
+N =
+
+     9.736516974866539e+06
+
+
+N1 =
+
+     9.736479589442845e+06
+
+El valor de la E1 es 9736479.589443: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                    <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>_________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221641.759424372    9736479.58944285    38.3628113197776    -1.19442970601169    -0.971429706011691    38.3814011557611    440.903570293988
+
+
+ans =
+
+     2.216417594243721e+05
+
+taquimetria(100,1.675,1.638,1.6,[144 43 40],[92 0 5],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   144    43    40
+    92     0     5
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.447277777777778
+   0.920013888888889
+
+El valor de la DH es 7.490853: 
+El valor de la V es -0.261768: 
+El valor de la DI es 7.495425: 
+El valor de la DV es -0.484768: 
+El valor de la Elevación es 441.390232: 
+Ingrese el valor de la coordenada anterior: 
+ 221641.759424372
+
+E =
+
+     2.216417594243720e+05
+
+El valor de la E1 es 221646.085106: 
+Ingrese el valor de la coordenada anterior: 
+9736479.58944285
+
+N =
+
+     9.736479589442849e+06
+
+
+N1 =
+
+     9.736473473778673e+06
+
+El valor de la E1 es 9736473.473779: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221646.085106154    9736473.47377867    7.49085250199319    -0.261768138495231    -0.484768138495231    7.49542485553347    441.390231861505
+
+
+ans =
+
+     2.216460851061542e+05
+
+taquimetria(100,1.668,1.634,1.6,[158 23 0],[99 2 50],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   158    23     0
+    99     2    50
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.583833333333333
+   0.990472222222222
+
+El valor de la DH es 6.631856: 
+El valor de la V es -1.055986: 
+El valor de la DI es 6.715402: 
+El valor de la DV es -1.274986: 
+El valor de la Elevación es 440.600014: 
+Ingrese el valor de la coordenada anterior: 
+ 221646.085106154
+
+E =
+
+     2.216460851061540e+05
+
+El valor de la E1 es 221648.528249: 
+Ingrese el valor de la coordenada anterior: 
+9736473.47377867
+
+N =
+
+     9.736473473778671e+06
+
+
+N1 =
+
+     9.736467308345422e+06
+
+El valor de la E1 es 9736467.308345: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                   <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221648.528248694    9736467.30834542    6.63185589406695    -1.05598649611848    -1.27498649611848    6.71540170649941    440.600013503882
+
+
+ans =
+
+     2.216485282486936e+05
+
+taquimetria(100,1.659,1.629,1.6,[155 8 5],[92 21 5],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   155     8     5
+    92    21     5
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.551347222222222
+   0.923513888888889
+
+El valor de la DH es 5.890069: 
+El valor de la V es -0.241861: 
+El valor de la DI es 5.895032: 
+El valor de la DV es -0.455861: 
+El valor de la Elevación es 441.419139: 
+Ingrese el valor de la coordenada anterior: 
+221648.528248694
+
+E =
+
+     2.216485282486940e+05
+
+El valor de la E1 es 221651.004940: 
+Ingrese el valor de la coordenada anterior: 
+ 9736467.30834542
+
+N =
+
+     9.736467308345420e+06
+
+
+N1 =
+
+     9.736461964292083e+06
+
+El valor de la E1 es 9736461.964292: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221651.004940372    9736461.96429208    5.89006856880951    -0.241861139289361    -0.455861139289361    5.89503219295502    441.419138860711
+
+
+ans =
+
+     2.216510049403719e+05
+
+taquimetria(100,1.574,1.537,1.5,[133 9 15],[92 38 40],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   133     9    15
+    92    38    40
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.331541666666667
+   0.926444444444444
+
+El valor de la DH es 7.384248: 
+El valor de la V es -0.341057: 
+El valor de la DI es 7.392120: 
+El valor de la DV es -0.463057: 
+El valor de la Elevación es 441.411943: 
+Ingrese el valor de la coordenada anterior: 
+ 221651.004940372
+
+E =
+
+     2.216510049403720e+05
+
+El valor de la E1 es 221656.391867: 
+Ingrese el valor de la coordenada anterior: 
+9736461.96429208
+
+N =
+
+     9.736461964292079e+06
+
+
+N1 =
+
+     9.736456913734376e+06
+
+El valor de la E1 es 9736456.913734: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221656.391867083    9736456.91373438    7.38424759214318    -0.341056710514925    -0.463056710514925    7.39211960007815    441.411943289485
+
+
+ans =
+
+     2.216563918670830e+05
+
+taquimetria(100,0.612,0.555,0.500,[153 9 10],[96 37 35],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   153     9    10
+    96    37    35
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.531527777777778
+   0.966263888888889
+
+El valor de la DH es 11.050862: 
+El valor de la V es -1.283786: 
+El valor de la DI es 11.125181: 
+El valor de la DV es -0.423786: 
+El valor de la Elevación es 441.451214: 
+Ingrese el valor de la coordenada anterior: 
+ 221656.391867083 
+
+E =
+
+     2.216563918670830e+05
+
+El valor de la E1 es 221661.382580: 
+Ingrese el valor de la coordenada anterior: 
+9736456.91373438
+
+N =
+
+     9.736456913734380e+06
+
+
+N1 =
+
+     9.736447054001935e+06
+
+El valor de la E1 es 9736447.054002: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                    <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>_________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221661.382580311    9736447.05400193    11.0508616140608    -1.28378645590258    -0.423786455902581    11.1251809008879    441.451213544097
+
+
+ans =
+
+     2.216613825803106e+05
+
+taquimetria(100,0.615,0.558,0.500,[148 25 35],[96 27 20],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   148    25    35
+    96    27    20
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.484263888888889
+   0.964555555555555
+
+El valor de la DH es 11.354628: 
+El valor de la V es -1.284775: 
+El valor de la DI es 11.427083: 
+El valor de la DV es -0.427775: 
+El valor de la Elevación es 441.447225: 
+Ingrese el valor de la coordenada anterior: 
+ 221661.382580311
+
+E =
+
+     2.216613825803110e+05
+
+El valor de la E1 es 221667.327790: 
+Ingrese el valor de la coordenada anterior: 
+9736447.05400193
+
+N =
+
+     9.736447054001929e+06
+
+
+N1 =
+
+     9.736437380220357e+06
+
+El valor de la E1 es 9736437.380220: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                    <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>_________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221667.327790405    9736437.38022036    11.3546278213753    -1.28477507131261    -0.427775071312614    11.4270827399567    441.447224928687
+
+
+ans =
+
+     2.216673277904051e+05
+
+taquimetria(100,0.537,0.468,0.400,[131 51 55],[96 41 55],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   131    51    55
+    96    41    55
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.318652777777778
+   0.966986111111111
+
+El valor de la DH es 13.513592: 
+El valor de la V es -1.587150: 
+El valor de la DI es 13.606477: 
+El valor de la DV es -0.640150: 
+El valor de la Elevación es 441.234850: 
+Ingrese el valor de la coordenada anterior: 
+221667.327790405
+
+E =
+
+     2.216673277904050e+05
+
+El valor de la E1 es 221677.391580: 
+Ingrese el valor de la coordenada anterior: 
+9736437.38022036
+
+N =
+
+     9.736437380220359e+06
+
+
+N1 =
+
+     9.736428361501038e+06
+
+El valor de la E1 es 9736428.361501: 
+          <strong>E1</strong>                 <strong>N1</strong>                  <strong>DH</strong>                  <strong>V</strong>                   <strong>DV</strong>                  <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>______________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221677.3915801    9736428.36150104    13.5135917207728    -1.5871500807572    -0.6401500807572    13.6064766407247    441.234849919243
+
+
+ans =
+
+     2.216773915800996e+05
+
+taquimetria(100,0.790,0.745,0.700,[88 30 10],[96 39 25],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+    88    30    10
+    96    39    25
+
+
+angleInDegrees =
+
+  88.502777777777780
+  96.656944444444449
+
+El valor de la DH es 8.879054: 
+El valor de la V es -1.036285: 
+El valor de la DI es 8.939322: 
+El valor de la DV es -0.366285: 
+El valor de la Elevación es 441.508715: 
+Ingrese el valor de la coordenada anterior: 
+ 221677.3915801
+
+E =
+
+     2.216773915801000e+05
+
+El valor de la E1 es 221686.267603: 
+Ingrese el valor de la coordenada anterior: 
+9736428.36150104
+
+N =
+
+     9.736428361501040e+06
+
+
+N1 =
+
+     9.736428593497252e+06
+
+El valor de la E1 es 9736428.593497: 
+           <strong>E1</strong>                  <strong>N1</strong>                 <strong>DH</strong>                   <strong>V</strong>                    <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>_______________</strong>    <strong>_________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221686.267602581    9736428.59349725    8.8790538534982    -1.03628536039194    -0.366285360391943    8.93932238379866    441.508714639608
+
+
+ans =
+
+     2.216862676025814e+05
+
+taquimetria(100,1.218,1.209,1.200,[102 55 45],[98 45 55],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   102    55    45
+    98    45    55
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.029291666666666
+   0.987652777777778
+
+El valor de la DH es 1.758201: 
+El valor de la V es -0.271093: 
+El valor de la DI es 1.778978: 
+El valor de la DV es -0.065093: 
+El valor de la Elevación es 441.809907: 
+Ingrese el valor de la coordenada anterior: 
+221686.267602581
+
+E =
+
+     2.216862676025810e+05
+
+El valor de la E1 es 221687.981228: 
+Ingrese el valor de la coordenada anterior: 
+9736428.59349725
+
+N =
+
+     9.736428593497250e+06
+
+
+N1 =
+
+     9.736428200106338e+06
+
+El valor de la E1 es 9736428.200106: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                    <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>___________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221687.981228462    9736428.20010634    1.75820080519927    -0.271092932322705    -0.0650929323227052    1.77897764161293    441.809907067677
+
+
+ans =
+
+     2.216879812284622e+05
+
+taquimetria(100,1.217,1.208,1.200,[67 56 30],[98 49 20],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+    67    56    30
+    98    49    20
+
+
+angleInDegrees =
+
+  67.941666666666663
+  98.822222222222223
+
+El valor de la DH es 1.660012: 
+El valor de la V es -0.257643: 
+El valor de la DI es 1.679887: 
+El valor de la DV es -0.050643: 
+El valor de la Elevación es 441.824357: 
+Ingrese el valor de la coordenada anterior: 
+221687.981228462
+
+E =
+
+     2.216879812284620e+05
+
+El valor de la E1 es 221689.519731: 
+Ingrese el valor de la coordenada anterior: 
+9736428.20010634
+
+N =
+
+     9.736428200106340e+06
+
+
+N1 =
+
+     9.736428823524637e+06
+
+El valor de la E1 es 9736428.823525: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                    <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>___________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221689.519731301    9736428.82352464    1.66001245732497    -0.257642812782321    -0.0506428127823213    1.67988725141078    441.824357187218
+
+
+ans =
+
+     2.216895197313007e+05
+
+taquimetria(100,1.232,1.215,1.200,[36 50 0],[94 20 40],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+    36    50     0
+    94    20    40
+
+
+angleInDegrees =
+
+  36.833333333333336
+  94.344444444444449
+
+El valor de la DH es 3.181637: 
+El valor de la V es -0.241711: 
+El valor de la DI es 3.190805: 
+El valor de la DV es -0.041711: 
+El valor de la Elevación es 441.833289: 
+Ingrese el valor de la coordenada anterior: 
+221689.519731301
+
+E =
+
+     2.216895197313010e+05
+
+El valor de la E1 es 221691.427089: 
+Ingrese el valor de la coordenada anterior: 
+9736428.82352464
+
+N =
+
+     9.736428823524641e+06
+
+
+N1 =
+
+     9.736431370052071e+06
+
+El valor de la E1 es 9736431.370052: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>___________________</strong>    <strong>_______________</strong>    <strong>________________</strong>
+
+    221691.427088852    9736431.37005207    3.18163712247575    -0.241710597216279    -0.0417105972162788    3.1908053516193    441.833289402784
+
+
+ans =
+
+     2.216914270888516e+05
+
+taquimetria(100,1.307,1.253,1.200,[279 26 20],[88 2 25],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   279    26    20
+    88     2    25
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   2.794388888888889
+   0.880402777777778
+
+El valor de la DH es 10.687487: 
+El valor de la V es 0.365693: 
+El valor de la DI es 10.693742: 
+El valor de la DV es 0.527693: 
+El valor de la Elevación es 442.402693: 
+Ingrese el valor de la coordenada anterior: 
+221691.427088852
+
+E =
+
+     2.216914270888520e+05
+
+El valor de la E1 es 221680.884299: 
+Ingrese el valor de la coordenada anterior: 
+9736431.37005207
+
+N =
+
+     9.736431370052069e+06
+
+
+N1 =
+
+     9.736433122752391e+06
+
+El valor de la E1 es 9736433.122752: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                   <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221680.884298805    9736433.12275239    10.6874870939878    0.365693206819202    0.527693206819202    10.6937417168019    442.402693206819
+
+
+ans =
+
+     2.216808842988053e+05
+
+taquimetria(100,1.126,1.112,1.1,[197 13 50],[98 13 40],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   197    13    50
+    98    13    40
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.972305555555556
+   0.982277777777778
+
+El valor de la DH es 2.546752: 
+El valor de la V es -0.368253: 
+El valor de la DI es 2.573238: 
+El valor de la DV es -0.065253: 
+El valor de la Elevación es 441.809747: 
+Ingrese el valor de la coordenada anterior: 
+ 221680.884298805
+
+E =
+
+     2.216808842988050e+05
+
+El valor de la E1 es 221680.129907: 
+Ingrese el valor de la coordenada anterior: 
+9736433.12275239
+
+N =
+
+     9.736433122752391e+06
+
+
+N1 =
+
+     9.736430690297579e+06
+
+El valor de la E1 es 9736430.690298: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                    <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>___________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221680.129906507    9736430.69029758    2.54675168490387    -0.368252951365389    -0.0652529513653892    2.57323811194184    441.809747048635
+
+
+ans =
+
+     2.216801299065070e+05
+
+ taquimetria(100,1.144,1.122,1.100,[228 30 50],[91 25 15],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   228    30    50
+    91    25    15
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   2.285138888888889
+   0.914208333333333
+
+El valor de la DH es 4.397295: 
+El valor de la V es -0.109067: 
+El valor de la DI es 4.398647: 
+El valor de la DV es 0.183933: 
+El valor de la Elevación es 442.058933: 
+Ingrese el valor de la coordenada anterior: 
+221680.129906507
+
+E =
+
+     2.216801299065070e+05
+
+El valor de la E1 es 221676.835821: 
+Ingrese el valor de la coordenada anterior: 
+9736430.69029758
+
+N =
+
+     9.736430690297579e+06
+
+
+N1 =
+
+     9.736427777360331e+06
+
+El valor de la E1 es 9736427.777360: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                    <strong>DV</strong>                  <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>_________________</strong>    <strong>_______________</strong>    <strong>________________</strong>
+
+    221676.835821223    9736427.77736033    4.39729476709674    -0.109067440096424    0.183932559903576    4.3986471755786    442.058932559904
+
+
+ans =
+
+     2.216768358212225e+05
+
+taquimetria(100,0.752,0.726,0.700,[234 56 40],[95 0 10],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   234    56    40
+    95     0    10
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   2.349444444444444
+   0.950027777777778
+
+El valor de la DH es 5.160456: 
+El valor de la V es -0.451734: 
+El valor de la DI es 5.180190: 
+El valor de la DV es 0.237266: 
+El valor de la Elevación es 442.112266: 
+Ingrese el valor de la coordenada anterior: 
+221676.835821223
+
+E =
+
+     2.216768358212230e+05
+
+El valor de la E1 es 221672.611495: 
+Ingrese el valor de la coordenada anterior: 
+9736427.77736033
+
+N =
+
+     9.736427777360329e+06
+
+
+N1 =
+
+     9.736424813346740e+06
+
+El valor de la E1 es 9736424.813347: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                   <strong>DV</strong>                  <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>_________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221672.611494842    9736424.81334674    5.16045636854883    -0.45173353291265    0.23726646708735    5.18019045175503    442.112266467087
+
+
+ans =
+
+     2.216726114948417e+05
+
+taquimetria(100,0.984,0.942,0.900,[208 14 10],[95 54 15],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   208    14    10
+    95    54    15
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   2.082361111111111
+   0.959041666666667
+
+El valor de la DH es 8.311118: 
+El valor de la V es -0.859481: 
+El valor de la DI es 8.355441: 
+El valor de la DV es -0.386481: 
+El valor de la Elevación es 441.488519: 
+Ingrese el valor de la coordenada anterior: 
+221672.611494842
+
+E =
+
+     2.216726114948420e+05
+
+El valor de la E1 es 221668.679454: 
+Ingrese el valor de la coordenada anterior: 
+ 9736424.81334674
+
+N =
+
+     9.736424813346740e+06
+
+
+N1 =
+
+     9.736417491206439e+06
+
+El valor de la E1 es 9736417.491206: 
+           <strong>E1</strong>                  <strong>N1</strong>                 <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>     
+    <strong>________________</strong>    <strong>________________</strong>    <strong>_______________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>_______________</strong>
+
+    221668.679454025    9736417.49120644    8.3111180697855    -0.859481364709607    -0.386481364709607    8.35544084930282    441.48851863529
+
+
+ans =
+
+     2.216686794540246e+05
+
+taquimetria(100,1.168,1.134,0.100,[182 33 25],[95 52 30],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   182    33    25
+    95    52    30
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.825569444444444
+   0.958750000000000
+
+El valor de la DH es 105.681028: 
+El valor de la V es -10.874470: 
+El valor de la DI es 106.239041: 
+El valor de la DV es -10.593470: 
+El valor de la Elevación es 431.281530: 
+Ingrese el valor de la coordenada anterior: 
+221668.679454025
+
+E =
+
+     2.216686794540250e+05
+
+El valor de la E1 es 221663.964782: 
+Ingrese el valor de la coordenada anterior: 
+9736417.49120644
+
+N =
+
+     9.736417491206439e+06
+
+
+N1 =
+
+     9.736311915396750e+06
+
+El valor de la E1 es 9736311.915397: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                   <strong>DV</strong>                  <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>_________________</strong>    <strong>_________________</strong>    <strong>_______________</strong>    <strong>________________</strong>
+
+    221663.964781582    9736311.91539675    105.681028230677    -10.8744695108855    -10.5934695108855    106.23904091734    431.281530489115
+
+
+ans =
+
+     2.216639647815825e+05
+
+taquimetria(100,1.168,1.134,1.100,[182 33 25],[95 52 30],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   182    33    25
+    95    52    30
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.825569444444444
+   0.958750000000000
+
+El valor de la DH es 6.728755: 
+El valor de la V es -0.692382: 
+El valor de la DI es 6.764284: 
+El valor de la DV es -0.411382: 
+El valor de la Elevación es 441.463618: 
+Ingrese el valor de la coordenada anterior: 
+221663.964781582
+
+E =
+
+     2.216639647815820e+05
+
+El valor de la E1 es 221663.664596: 
+Ingrese el valor de la coordenada anterior: 
+9736311.91539675
+
+N =
+
+     9.736311915396750e+06
+
+
+N1 =
+
+     9.736305193341451e+06
+
+El valor de la E1 es 9736305.193341: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                  <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>_______________</strong>    <strong>________________</strong>
+
+    221663.664596445    9736305.19334145    6.72875460644757    -0.692381953876602    -0.411381953876602    6.7642835041003    441.463618046123
+
+
+ans =
+
+     2.216636645964452e+05
+
+taquimetria(100,1.153,1.126,1.100,[185 6 25],[96 33 25],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   185     6    25
+    96    33    25
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.851069444444444
+   0.965569444444444
+
+El valor de la DH es 5.230891: 
+El valor de la V es -0.601252: 
+El valor de la DI es 5.265332: 
+El valor de la DV es -0.312252: 
+El valor de la Elevación es 441.562748: 
+Ingrese el valor de la coordenada anterior: 
+221663.664596445
+
+E =
+
+     2.216636645964450e+05
+
+El valor de la E1 es 221663.198969: 
+Ingrese el valor de la coordenada anterior: 
+9736305.19334145
+
+N =
+
+     9.736305193341451e+06
+
+
+N1 =
+
+     9.736299983215960e+06
+
+El valor de la E1 es 9736299.983216: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221663.198968611    9736299.98321596    5.23089064161621    -0.601251607912885    -0.312251607912885    5.26533193640875    441.562748392087
+
+
+ans =
+
+     2.216631989686110e+05
+
+taquimetria(100,0.964,0.932,0.900,[209 54 25],[97 0 25],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   209    54    25
+    97     0    25
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   2.099069444444444
+   0.970069444444444
+
+El valor de la DH es 6.304759: 
+El valor de la V es -0.774903: 
+El valor de la DI es 6.352201: 
+El valor de la DV es -0.291903: 
+El valor de la Elevación es 441.583097: 
+Ingrese el valor de la coordenada anterior: 
+221663.198968611
+
+E =
+
+     2.216631989686110e+05
+
+El valor de la E1 es 221660.055461: 
+Ingrese el valor de la coordenada anterior: 
+9736299.98321596
+
+N =
+
+     9.736299983215960e+06
+
+
+N1 =
+
+     9.736294518022213e+06
+
+El valor de la E1 es 9736294.518022: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221660.055461337    9736294.51802221    6.30475857358843    -0.774902703395132    -0.291902703395132    6.35220078956624    441.583097296605
+
+
+ans =
+
+     2.216600554613367e+05
+
+taquimetria(100,0.938,0.869,0.800,[254 24 10],[89 46 20],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   254    24    10
+    89    46    20
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   2.544027777777778
+   0.897722222222222
+
+El valor de la DH es 13.799782: 
+El valor de la V es 0.054861: 
+El valor de la DI es 13.799891: 
+El valor de la DV es 0.600861: 
+El valor de la Elevación es 442.475861: 
+Ingrese el valor de la coordenada anterior: 
+221660.055461337
+
+E =
+
+     2.216600554613370e+05
+
+El valor de la E1 es 221646.763848: 
+Ingrese el valor de la coordenada anterior: 
+9736294.51802221
+
+N =
+
+     9.736294518022209e+06
+
+
+N1 =
+
+     9.736290807631727e+06
+
+El valor de la E1 es 9736290.807632: 
+          <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                   <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>_______________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221646.76384808    9736290.80763173    13.7997819007175    0.054860938121382    0.600860938121382    13.7998909499279    442.475860938121
+
+
+ans =
+
+     2.216467638480798e+05
+
+taquimetria(100,0.932,0.866,0.800,[276 20 45],[89 49 45],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   276    20    45
+    89    49    45
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   2.763458333333334
+   0.898291666666667
+
+El valor de la DH es 13.199883: 
+El valor de la V es 0.039357: 
+El valor de la DI es 13.199941: 
+El valor de la DV es 0.588357: 
+El valor de la Elevación es 442.463357: 
+Ingrese el valor de la coordenada anterior: 
+ 221646.76384808
+
+E =
+
+     2.216467638480800e+05
+
+El valor de la E1 es 221633.644843: 
+Ingrese el valor de la coordenada anterior: 
+9736290.80763173
+
+N =
+
+     9.736290807631729e+06
+
+
+N1 =
+
+     9.736292266606675e+06
+
+El valor de la E1 es 9736292.266607: 
+           <strong>E1</strong>                  <strong>N1</strong>                 <strong>DH</strong>                   <strong>V</strong>                    <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>_______________</strong>    <strong>__________________</strong>    <strong>_________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221633.644843005    9736292.26660668    13.199882652833    0.0393569413769966    0.588356941376997    13.1999413262861    442.463356941377
+
+
+ans =
+
+     2.216336448430051e+05
+
+taquimetria(100,1.853,1.627,1.401,[268 8 15],[87 39 0],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   268     8    15
+    87    39     0
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   2.681375000000000
+   0.876500000000000
+
+El valor de la DH es 45.124005: 
+El valor de la V es 1.851810: 
+El valor de la DI es 45.161986: 
+El valor de la DV es 1.639810: 
+El valor de la Elevación es 443.514810: 
+Ingrese el valor de la coordenada anterior: 
+221633.644843005
+
+E =
+
+     2.216336448430050e+05
+
+El valor de la E1 es 221588.544677: 
+Ingrese el valor de la coordenada anterior: 
+9736292.26660668
+
+N =
+
+     9.736292266606679e+06
+
+
+N1 =
+
+     9.736290800029919e+06
+
+El valor de la E1 es 9736290.800030: 
+          <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                  <strong>V</strong>                   <strong>DV</strong>                  <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>_______________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221588.54467699    9736290.80002992    45.1240049420876    1.85181029503892    1.63981029503892    45.1619864862293    443.514810295039
+
+
+ans =
+
+     2.215885446769895e+05
+
+taquimetria(100,1.853,1.628,1.401,[261 42 35],[87 40 15],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   261    42    35
+    87    40    15
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   2.617097222222222
+   0.876708333333333
+
+El valor de la DH es 45.125346: 
+El valor de la V es 1.835430: 
+El valor de la DI es 45.162657: 
+El valor de la DV es 1.622430: 
+El valor de la Elevación es 443.497430: 
+Ingrese el valor de la coordenada anterior: 
+ 221588.54467699
+
+E =
+
+     2.215885446769900e+05
+
+El valor de la E1 es 221543.890879: 
+Ingrese el valor de la coordenada anterior: 
+9736290.80002992
+
+N =
+
+     9.736290800029920e+06
+
+
+N1 =
+
+     9.736284293483429e+06
+
+El valor de la E1 es 9736284.293483: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                  <strong>V</strong>                 <strong>DV</strong>                 <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>_______________</strong>    <strong>_______________</strong>    <strong>_______________</strong>    <strong>________________</strong>
+
+    221543.890879013    9736284.29348343    45.1253456605115    1.8354298881941    1.6224298881941    45.162657404709    443.497429888194
+
+
+ans =
+
+     2.215438908790134e+05
+
+taquimetria(100,1.703,1.552,1.401,[111 44 25],[92 13 25],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   111    44    25
+    92    13    25
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.117402777777778
+   0.922236111111111
+
+El valor de la DH es 30.154537: 
+El valor de la V es -1.170865: 
+El valor de la DI es 30.177260: 
+El valor de la DV es -1.307865: 
+El valor de la Elevación es 440.567135: 
+Ingrese el valor de la coordenada anterior: 
+221543.890879013
+
+E =
+
+     2.215438908790130e+05
+
+El valor de la E1 es 221571.900596: 
+Ingrese el valor de la coordenada anterior: 
+9736284.29348343
+
+N =
+
+     9.736284293483431e+06
+
+
+N1 =
+
+     9.736273124248257e+06
+
+El valor de la E1 es 9736273.124248: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                   <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221571.900596382    9736273.12424826    30.1545366641688    -1.17086541805565    -1.30786541805565    30.1772597705275    440.567134581944
+
+
+ans =
+
+     2.215719005963816e+05
+
+taquimetria(100,1.667,1.533,1.400,[86 7 35],[92 10 45],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+    86     7    35
+    92    10    45
+
+
+angleInDegrees =
+
+  86.126388888888883
+  92.179166666666660
+
+El valor de la DH es 26.661396: 
+El valor de la V es -1.014519: 
+El valor de la DI es 26.680691: 
+El valor de la DV es -1.132519: 
+El valor de la Elevación es 440.742481: 
+Ingrese el valor de la coordenada anterior: 
+221571.900596382
+
+E =
+
+     2.215719005963820e+05
+
+El valor de la E1 es 221598.501084: 
+Ingrese el valor de la coordenada anterior: 
+9736273.12424826
+
+N =
+
+     9.736273124248261e+06
+
+
+N1 =
+
+     9.736274925379554e+06
+
+El valor de la E1 es 9736274.925380: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                   <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221598.501083939    9736274.92537955    26.6613955410458    -1.01451897460084    -1.13251897460084    26.6806907883946    440.742481025399
+
+
+ans =
+
+     2.215985010839389e+05
+
+taquimetria(100,1.196,1.098,1.000,[127 49 20],[92 23 20],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   127    49    20
+    92    23    20
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.278222222222222
+   0.923888888888889
+
+El valor de la DH es 19.565947: 
+El valor de la V es -0.816255: 
+El valor de la DI es 19.582966: 
+El valor de la DV es -0.499255: 
+El valor de la Elevación es 441.375745: 
+Ingrese el valor de la coordenada anterior: 
+221598.501083939
+
+E =
+
+     2.215985010839390e+05
+
+El valor de la E1 es 221613.956563: 
+Ingrese el valor de la coordenada anterior: 
+9736274.92537955
+
+N =
+
+     9.736274925379550e+06
+
+
+N1 =
+
+     9.736262927277090e+06
+
+El valor de la E1 es 9736262.927277: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221613.956562989    9736262.92727709    19.5659473405232    -0.816255194241872    -0.499255194241872    19.5829662685267    441.375744805758
+
+
+ans =
+
+     2.216139565629892e+05
+
+taquimetria(100,1.464,1.432,1.400,[80 27 45],[92 20 45],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+    80    27    45
+    92    20    45
+
+
+angleInDegrees =
+
+  80.462500000000006
+  92.345833333333331
+
+El valor de la DH es 6.389278: 
+El valor de la V es -0.261739: 
+El valor de la DI es 6.394637: 
+El valor de la DV es -0.278739: 
+El valor de la Elevación es 441.596261: 
+Ingrese el valor de la coordenada anterior: 
+221613.956562989
+
+E =
+
+     2.216139565629890e+05
+
+El valor de la E1 es 221620.257524: 
+Ingrese el valor de la coordenada anterior: 
+9736262.92727709
+
+N =
+
+     9.736262927277090e+06
+
+
+N1 =
+
+     9.736263985936280e+06
+
+El valor de la E1 es 9736263.985936: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221620.257524087    9736263.98593628    6.38927773999861    -0.261739368741819    -0.278739368741819    6.39463662266991    441.596260631258
+
+
+ans =
+
+     2.216202575240870e+05
+
+taquimetria(100,1.320,1.260,1.200,[27 16 40],[92 15 10],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+    27    16    40
+    92    15    10
+
+
+angleInDegrees =
+
+  27.277777777777779
+  92.252777777777780
+
+El valor de la DH es 11.981458: 
+El valor de la V es -0.471335: 
+El valor de la DI es 11.990726: 
+El valor de la DV es -0.316335: 
+El valor de la Elevación es 441.558665: 
+Ingrese el valor de la coordenada anterior: 
+221620.257524087
+
+E =
+
+     2.216202575240870e+05
+
+El valor de la E1 es 221625.748685: 
+Ingrese el valor de la coordenada anterior: 
+9736263.98593628
+
+N =
+
+     9.736263985936280e+06
+
+
+N1 =
+
+     9.736274634997176e+06
+
+El valor de la E1 es 9736274.634997: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                     <strong>DV</strong>                  <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>__________________</strong>    <strong>_______________</strong>    <strong>________________</strong>
+
+    221625.748684776    9736274.63499718    11.9814583286289    -0.471334555147993    -0.316334555147993    11.990725580362    441.558665444852
+
+
+ans =
+
+     2.216257486847763e+05
+
+taquimetria(100,1.009,0.954,0.900,[17 25 50],[92 20 25],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+    17    25    50
+    92    20    25
+
+
+angleInDegrees =
+
+  17.430555555555557
+  92.340277777777771
+
+El valor de la DH es 10.881825: 
+El valor de la V es -0.444722: 
+El valor de la DI es 10.890909: 
+El valor de la DV es 0.016278: 
+El valor de la Elevación es 441.891278: 
+Ingrese el valor de la coordenada anterior: 
+ 221625.748684776 
+
+E =
+
+     2.216257486847760e+05
+
+El valor de la E1 es 221629.008332: 
+Ingrese el valor de la coordenada anterior: 
+9736274.63499718 
+
+N =
+
+     9.736274634997180e+06
+
+
+N1 =
+
+     9.736285017136561e+06
+
+El valor de la E1 es 9736285.017137: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                    <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>_________________</strong>    <strong>__________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    221629.008331551    9736285.01713656    10.8818249958994    -0.44472150152879    0.0162784984712099    10.8909087065912    441.891278498471
+
+
+ans =
+
+     2.216290083315508e+05
+
+taquimetria(100,1.088,1.045,1.00,[22 28 15],[92 25 30],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+    22    28    15
+    92    25    30
+
+
+angleInDegrees =
+
+  22.470833333333335
+  92.424999999999997
+
+El valor de la DH es 8.784246: 
+El valor de la V es -0.372009: 
+El valor de la DI es 8.792119: 
+El valor de la DV es -0.002009: 
+El valor de la Elevación es 441.872991: 
+Ingrese el valor de la coordenada anterior: 
+221629.008331551
+
+E =
+
+     2.216290083315510e+05
+
+El valor de la E1 es 221632.365785: 
+Ingrese el valor de la coordenada anterior: 
+9736285.01713656
+
+N =
+
+     9.736285017136561e+06
+
+
+N1 =
+
+     9.736293134431468e+06
+
+El valor de la E1 es 9736293.134431: 
+           <strong>E1</strong>                  <strong>N1</strong>                  <strong>DH</strong>                   <strong>V</strong>                      <strong>DV</strong>                   <strong>DI</strong>                <strong>Elev1</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>__________________</strong>    <strong>____________________</strong>    <strong>_______________</strong>    <strong>________________</strong>
+
+    221632.365785103    9736293.13443147    8.78424561136579    -0.372008627883679    -0.00200862788367884    8.7921192769445    441.872991372116
+
+
+ans =
+
+     2.216323657851031e+05
+
+diary off

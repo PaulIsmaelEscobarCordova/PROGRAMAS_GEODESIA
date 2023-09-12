@@ -1,0 +1,732 @@
+disp('VALORES FINALES DE EN FI LA H')
+VALORES FINALES DE EN FI LA H
+cartesg(31)
+Ingresando valores para el cálculo 1:
+Ingrese el valor de x: 2816608.74641159
+Ingrese el valor de y:     -12431145.3483175
+Ingrese el valor de z:     -526498.275463657
+Escribir el tipo de parámetro para la conversión: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+1
+
+P =
+
+     1
+
+
+e1 =
+
+   0.006694380022901
+
+
+b =
+
+     6.356752314140356e+06
+
+
+e2 =
+
+   0.006739496775479
+
+Calculamos p su valor es: 
+Calculamos el valor de landa el cual es: 
+
+la =
+
+  Columns 1 through 5
+
+ -77.233656591323850                   0                   0                   0                   0
+
+  Columns 6 through 10
+
+                   0                   0                   0                   0                   0
+
+  Columns 11 through 15
+
+                   0                   0                   0                   0                   0
+
+  Columns 16 through 20
+
+                   0                   0                   0                   0                   0
+
+  Columns 21 through 25
+
+                   0                   0                   0                   0                   0
+
+  Columns 26 through 30
+
+                   0                   0                   0                   0                   0
+
+  Column 31
+
+                   0
+
+
+la1 =
+
+  Columns 1 through 18
+
+   -77     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+
+  Columns 19 through 31
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cartesg', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\cartesg.m', 42)" style="font-weight:bold">cartesg</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\cartesg.m',42,0)">line 42</a>)
+                teta= atand((z*a)/(p*b));
+} 
+cartesg(31)
+Ingresando valores para el cálculo 1:
+Ingrese el valor de x: 2816608.74641159
+Ingrese el valor de y: -12431145.3483175
+Ingrese el valor de z: -526498.275463657
+Escribir el tipo de parámetro para la conversión: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+1
+
+P =
+
+     1
+
+
+e1 =
+
+   0.006694380022901
+
+
+b =
+
+     6.356752314140356e+06
+
+
+e2 =
+
+   0.006739496775479
+
+Calculamos p su valor es: 
+Calculamos el valor de landa el cual es: 
+
+la =
+
+  Columns 1 through 5
+
+ -77.233656591323850                   0                   0                   0                   0
+
+  Columns 6 through 10
+
+                   0                   0                   0                   0                   0
+
+  Columns 11 through 15
+
+                   0                   0                   0                   0                   0
+
+  Columns 16 through 20
+
+                   0                   0                   0                   0                   0
+
+  Columns 21 through 25
+
+                   0                   0                   0                   0                   0
+
+  Columns 26 through 30
+
+                   0                   0                   0                   0                   0
+
+  Column 31
+
+                   0
+
+
+la1 =
+
+  Columns 1 through 18
+
+   -77     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+
+  Columns 19 through 31
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mrdivide')" style="font-weight:bold"> / </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cartesg', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\cartesg.m', 42)" style="font-weight:bold">cartesg</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\cartesg.m',42,0)">line 42</a>)
+                teta= atand((z*a)/(p*b));
+} 
+cartesg(31)
+Ingresando valores para el cálculo 1:
+Ingrese el valor de x: 2816608.74641159
+Ingrese el valor de y: -12431145.3483175
+Ingrese el valor de z: -526498.275463657
+Escribir el tipo de parámetro para la conversión: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+1
+
+P =
+
+     1
+
+
+e1 =
+
+   0.006694380022901
+
+
+b =
+
+     6.356752314140356e+06
+
+
+e2 =
+
+   0.006739496775479
+
+Calculamos p su valor es: 
+Calculamos el valor de landa el cual es: 
+
+la =
+
+  Columns 1 through 2
+
+ -77.233656591323850                   0
+
+  Columns 3 through 4
+
+                   0                   0
+
+  Columns 5 through 6
+
+                   0                   0
+
+  Columns 7 through 8
+
+                   0                   0
+
+  Columns 9 through 10
+
+                   0                   0
+
+  Columns 11 through 12
+
+                   0                   0
+
+  Columns 13 through 14
+
+                   0                   0
+
+  Columns 15 through 16
+
+                   0                   0
+
+  Columns 17 through 18
+
+                   0                   0
+
+  Columns 19 through 20
+
+                   0                   0
+
+  Columns 21 through 22
+
+                   0                   0
+
+  Columns 23 through 24
+
+                   0                   0
+
+  Columns 25 through 26
+
+                   0                   0
+
+  Columns 27 through 28
+
+                   0                   0
+
+  Columns 29 through 30
+
+                   0                   0
+
+  Column 31
+
+                   0
+
+
+la1 =
+
+  Columns 1 through 9
+
+   -77     0     0     0     0     0     0     0     0
+
+  Columns 10 through 18
+
+     0     0     0     0     0     0     0     0     0
+
+  Columns 19 through 27
+
+     0     0     0     0     0     0     0     0     0
+
+  Columns 28 through 31
+
+     0     0     0     0
+
+Calculamos el valor de fi el cual es: 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mpower', 'C:\Program Files\Polyspace\R2020b\toolbox\matlab\ops\mpower.m', 51)" style="font-weight:bold"> ^ </a> (<a href="matlab: opentoline('C:\Program Files\Polyspace\R2020b\toolbox\matlab\ops\mpower.m',51,0)">line 51</a>)
+Incorrect dimensions for raising a matrix to a power.
+Check that the matrix is square and the power is a
+scalar. To perform elementwise matrix powers, use
+'.^'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cartesg', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\cartesg.m', 44)" style="font-weight:bold">cartesg</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\cartesg.m',44,0)">line 44</a>)
+                fi(idx) =
+                atand((z+e2*b*sin(teta)^3)/(p-e1*a*cos(teta)^3))} 
+cartes(1)
+{Unrecognized function or variable 'cartes'.
+} 
+cartesg(1)
+Ingresando valores para el cálculo 1:
+Ingrese el valor de x: 2816608.74641159
+Ingrese el valor de y: -12431145.3483175
+Ingrese el valor de z: -526498.275463657
+Escribir el tipo de parámetro para la conversión: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+1
+
+P =
+
+     1
+
+
+e1 =
+
+   0.006694380022901
+
+
+b =
+
+     6.356752314140356e+06
+
+
+e2 =
+
+   0.006739496775479
+
+Calculamos p su valor es: 
+Calculamos el valor de landa el cual es: 
+
+la =
+
+ -77.233656591323850
+
+
+la1 =
+
+   -77
+
+Calculamos el valor de fi el cual es: 
+
+fi =
+
+  -2.426820336792675
+
+
+fi1 =
+
+    -2
+
+Determinamos radio N de la primera vertical: 
+
+N =
+
+     6.378163002505322e+06
+
+El valor de N es Calculamos el valor de h el cual es: 
+
+h =
+
+     6.375847390975111e+06
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('table', 'C:\Program Files\Polyspace\R2020b\toolbox\matlab\datatypes\tabular\@table\table.m', 335)" style="font-weight:bold">table</a> (<a href="matlab: opentoline('C:\Program Files\Polyspace\R2020b\toolbox\matlab\datatypes\tabular\@table\table.m',335,0)">line 335</a>)
+The VariableNames property must contain one name for each variable in the table.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cartesg', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\cartesg.m', 91)" style="font-weight:bold">cartesg</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\cartesg.m',91,0)">line 91</a>)
+    T = table(numero_orden', la', fi', h', 'VariableNames', {'Orden', 'P', 'Lambda',
+    'Fi', 'H'});
+} 
+cartesg(1)
+Ingresando valores para el cálculo 1:
+Ingrese el valor de x: 2816608.74641159
+Ingrese el valor de y: -12431145.3483175
+Ingrese el valor de z: -526498.275463657
+Escribir el tipo de parámetro para la conversión: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+1
+
+P =
+
+     1
+
+
+e1 =
+
+   0.006694380022901
+
+
+b =
+
+     6.356752314140356e+06
+
+
+e2 =
+
+   0.006739496775479
+
+Calculamos p su valor es: 
+Calculamos el valor de landa el cual es: 
+
+la =
+
+ -77.233656591323850
+
+
+la1 =
+
+   -77
+
+Calculamos el valor de fi el cual es: 
+
+fi =
+
+  -2.426820336792675
+
+
+fi1 =
+
+    -2
+
+Determinamos radio N de la primera vertical: 
+
+N =
+
+     6.378163002505322e+06
+
+El valor de N es Calculamos el valor de h el cual es: 
+
+h =
+
+     6.375847390975111e+06
+
+    <strong>Orden</strong>         <strong>Lambda</strong>                 <strong>Fi</strong>                   <strong>H</strong>        
+    <strong>_____</strong>    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+      1      -77.2336565913239    -2.42682033679268    6375847.39097511
+
+
+ans =
+
+  1×4 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+    <strong>Orden</strong>         <strong>Lambda</strong>                 <strong>Fi</strong>                   <strong>H</strong>        
+    <strong>_____</strong>    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+      1      -77.2336565913239    -2.42682033679268    6375847.39097511
+
+cartesg(31)
+Ingresando valores para el cálculo 1:
+Ingrese el valor de x: 2816608.74641159
+Ingrese el valor de y: -12431145.3483175
+Ingrese el valor de z: -526498.275463657
+Escribir el tipo de parámetro para la conversión: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+1
+
+P =
+
+     1
+
+
+e1 =
+
+   0.006694380022901
+
+
+b =
+
+     6.356752314140356e+06
+
+
+e2 =
+
+   0.006739496775479
+
+Calculamos p su valor es: 
+Calculamos el valor de landa el cual es: 
+
+la =
+
+  Columns 1 through 3
+
+ -77.233656591323850                   0                   0
+
+  Columns 4 through 6
+
+                   0                   0                   0
+
+  Columns 7 through 9
+
+                   0                   0                   0
+
+  Columns 10 through 12
+
+                   0                   0                   0
+
+  Columns 13 through 15
+
+                   0                   0                   0
+
+  Columns 16 through 18
+
+                   0                   0                   0
+
+  Columns 19 through 21
+
+                   0                   0                   0
+
+  Columns 22 through 24
+
+                   0                   0                   0
+
+  Columns 25 through 27
+
+                   0                   0                   0
+
+  Columns 28 through 30
+
+                   0                   0                   0
+
+  Column 31
+
+                   0
+
+
+la1 =
+
+  Columns 1 through 12
+
+   -77     0     0     0     0     0     0     0     0     0     0     0
+
+  Columns 13 through 24
+
+     0     0     0     0     0     0     0     0     0     0     0     0
+
+  Columns 25 through 31
+
+     0     0     0     0     0     0     0
+
+Calculamos el valor de fi el cual es: 
+{Unable to perform assignment because the left and right sides have a
+different number of elements.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cartesg', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\cartesg.m', 44)" style="font-weight:bold">cartesg</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\cartesg.m',44,0)">line 44</a>)
+                fi(idx) =
+                atand((z+e2*b*sin(teta).^3)./(p-e1*a*cos(teta).^3))
+} 
+cartesg(31)
+Ingrese el número de coordenadas que desea convertir: 31
+Escribir el tipo de parámetro para la conversión: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+1
+Ingresando valores para el cálculo 1:
+Ingrese el valor de x: 2816608.74641159
+Ingrese el valor de y: -12431145.3483175
+Ingrese el valor de z: -526498.275463657
+Ingresando valores para el cálculo 2:
+Ingrese el valor de x: 2758186.93840006
+Ingrese el valor de y: -12444242.6817756
+Ingrese el valor de z: -526378.622443675
+Ingresando valores para el cálculo 3:
+Ingrese el valor de x: 2758219.31554006
+Ingrese el valor de y: -12444238.9709156
+Ingrese el valor de z: -526271.56322369
+Ingresando valores para el cálculo 4:
+Ingrese el valor de x: 2758190.82354006
+Ingrese el valor de y: -12444236.7707956
+Ingrese el valor de z: -526466.664563662
+Ingresando valores para el cálculo 5:
+Ingrese el valor de x: 2758190.15488006
+Ingrese el valor de y: -12444236.4268756
+Ingrese el valor de z: -526461.858803662
+Ingresando valores para el cálculo 6:
+Ingrese el valor de x: 2758167.26268007
+Ingrese el valor de y: -12444242.2201756
+Ingrese el valor de z: -526468.426963662
+Ingresando valores para el cálculo 7:
+Ingrese el valor de x: 2758166.78450007
+Ingrese el valor de y: -12444240.8851156
+Ingrese el valor de z: -526464.226823662
+Ingresando valores para el cálculo 8:
+Ingrese el valor de x: 2758202.72668006
+Ingrese el valor de y: -12444235.0623156
+Ingrese el valor de z: -526453.283503664
+Ingresando valores para el cálculo 9:
+Ingrese el valor de x: 2758195.05494006
+Ingrese el valor de y: -12444239.4127956
+Ingrese el valor de z: -526390.815003673
+Ingresando valores para el cálculo 10:
+Ingrese el valor de x: 2758191.37888006
+Ingrese el valor de y: -12444240.3043556 
+Ingrese el valor de z: -526390.908883673
+Ingresando valores para el cálculo 11:
+Ingrese el valor de x: 2758191.47880006
+Ingrese el valor de y: -12444240.3439756
+Ingrese el valor de z: -526389.268903673
+Ingresando valores para el cálculo 12:
+Ingrese el valor de x: 2758197.06080006
+Ingrese el valor de y: -12444238.6961556
+Ingrese el valor de z: -526388.676703673
+Ingresando valores para el cálculo 13:
+Ingrese el valor de x: 2758196.31080006
+Ingrese el valor de y: -12444239.0134156
+Ingrese el valor de z: -526398.303103672
+Ingresando valores para el cálculo 14:
+Ingrese el valor de x: 2758198.31220006 
+Ingrese el valor de y: -12444239.2017956
+Ingrese el valor de z: -526397.959103672
+Ingresando valores para el cálculo 15:
+Ingrese el valor de x: 2758225.91346006
+Ingrese el valor de y: -12444233.1682956
+Ingrese el valor de z: -526396.667563672
+Ingresando valores para el cálculo 16:
+Ingrese el valor de x:  2758204.25600006
+Ingrese el valor de y: -12444238.7752556
+Ingrese el valor de z: -526378.185803675
+Ingresando valores para el cálculo 17:
+Ingrese el valor de x: 2758190.50418006
+Ingrese el valor de y: -12444242.9375356
+Ingrese el valor de z: -526379.457363674
+Ingresando valores para el cálculo 18:
+Ingrese el valor de x: 2758189.91858006 
+Ingrese el valor de y: -12444241.9403356
+Ingrese el valor de z: -526377.377323675
+Ingresando valores para el cálculo 19:
+Ingrese el valor de x: 2758190.79938006
+Ingrese el valor de y: -12444242.4188556
+Ingrese el valor de z: -526373.557443675
+Ingresando valores para el cálculo 20:
+Ingrese el valor de x: 2758166.50506007
+Ingrese el valor de y: -12444247.8489156
+Ingrese el valor de z: -526375.099963675
+Ingresando valores para el cálculo 21:
+Ingrese el valor de x: 2758185.23990006
+Ingrese el valor de y: -12444242.0093156
+Ingrese el valor de z: -526383.443123674
+Ingresando valores para el cálculo 22:
+Ingrese el valor de x: 2758180.30056006
+Ingrese el valor de y: -12444243.2668356
+Ingrese el valor de z: -526384.401583674
+Ingresando valores para el cálculo 23:
+Ingrese el valor de x: 2758178.50578006
+Ingrese el valor de y: -12444243.7021756
+Ingrese el valor de z: -526384.502723674
+Ingresando valores para el cálculo 24:
+Ingrese el valor de x: 2758179.35638006
+Ingrese el valor de y: -12444244.9696756
+Ingrese el valor de z: -526393.281163672
+Ingresando valores para el cálculo 25:
+Ingrese el valor de x: 2758186.46374006
+Ingrese el valor de y: -12444243.4187756
+Ingrese el valor de z: -526392.095663673
+Ingresando valores para el cálculo 26:
+Ingrese el valor de x: 2758186.61984006
+Ingrese el valor de y: -12444245.6651156
+Ingrese el valor de z: -526389.162263673
+Ingresando valores para el cálculo 27:
+Ingrese el valor de x: 2758181.38320006
+Ingrese el valor de y: -12444246.7121756
+Ingrese el valor de z: -526389.657923673
+Ingresando valores para el cálculo 28:
+Ingrese el valor de x: 2758160.35240007
+Ingrese el valor de y: -12444245.5855156
+Ingrese el valor de z: -526385.874603674
+Ingresando valores para el cálculo 29:
+Ingrese el valor de x: 2758160.86874007
+Ingrese el valor de y: -12444246.2702156
+Ingrese el valor de z: -526375.565123675
+Ingresando valores para el cálculo 30:
+Ingrese el valor de x: 2758098.67060008
+Ingrese el valor de y: -12444261.1121756
+Ingrese el valor de z: -526381.347863674
+Ingresando valores para el cálculo 31:
+Ingrese el valor de x: 2758099.52228008
+Ingrese el valor de y: -12444260.9453556
+Ingrese el valor de z: -526391.433883673
+    <strong>Orden</strong>         <strong>Lambda</strong>                 <strong>Fi</strong>                   <strong>H</strong>        
+    <strong>_____</strong>    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+      1      -77.2336565913239    -2.42682033679268    6370354.64682694
+      2      -77.5027878087582    -2.42639594888684    6370346.01500237
+      3       -77.502642108721    -2.42601636060019    6370337.76086934
+      4       -77.502765008754    -2.42670847089784    6370350.66389332
+      5      -77.5027676087061    -2.42669152436282    6370349.66333584
+      6       -77.502873708764    -2.42671467876236    6370351.07634959
+      7      -77.5028745086959    -2.42670001691437    6370349.21858263
+      8       -77.502711108702    -2.42666094626919    6370350.11512952
+      9       -77.502749008703    -2.42643934037534    6370345.90916552
+     10      -77.5027660087087    -2.42643966148886    6370345.99404334
+     11      -77.5027656087379    -2.42643384506085    6370345.87603754
+     12      -77.5027395086921    -2.42643180858736    6370345.41235539
+     13      -77.5027431087481    -2.42646587440834    6370346.60457718
+     14      -77.5027345086328    -2.42646456305157    6370347.18192313
+     15      -77.5026075087557    -2.42645997713339    6370347.12357515
+     16       -77.502708008744    -2.42639441278052    6370345.90128054
+     17      -77.5027724087367    -2.42639875109561    6370347.12315726
+     18        -77.50277400872    -2.42639155179868    6370345.80110765
+     19      -77.5027706086965    -2.42637792612761    6370346.04164014
+     20      -77.5028825087346     -2.4263833815335    6370346.25329359
+     21      -77.5027946086993    -2.42641317386699    6370345.51822665
+     22      -77.5028175087138    -2.42641654383343     6370345.7806032
+     23      -77.5028258087539    -2.42641689644048    6370345.82809909
+     24      -77.5028233087072     -2.4264477669035    6370348.19756164
+     25      -77.5027906087383    -2.42644356532975    6370348.09256053
+     26      -77.5027921087054     -2.4264328414836    6370349.99260315
+     27        -77.50281610873    -2.42643461341385    6370349.93592605
+     28      -77.5029073087411    -2.42642207001246    6370343.89536773
+     29       -77.502905708733    -2.42638544574545    6370343.55317543
+     30      -77.5031931087249    -2.42640576686797    6370345.20866604
+     31      -77.5031892087693    -2.42644147898893    6370346.32523624
+
+
+ans =
+
+  31×4 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+    <strong>Orden</strong>         <strong>Lambda</strong>                 <strong>Fi</strong>                   <strong>H</strong>        
+    <strong>_____</strong>    <strong>_________________</strong>    <strong>_________________</strong>    <strong>________________</strong>
+
+      1      -77.2336565913239    -2.42682033679268    6370354.64682694
+      2      -77.5027878087582    -2.42639594888684    6370346.01500237
+      3       -77.502642108721    -2.42601636060019    6370337.76086934
+      4       -77.502765008754    -2.42670847089784    6370350.66389332
+      5      -77.5027676087061    -2.42669152436282    6370349.66333584
+      6       -77.502873708764    -2.42671467876236    6370351.07634959
+      7      -77.5028745086959    -2.42670001691437    6370349.21858263
+      8       -77.502711108702    -2.42666094626919    6370350.11512952
+      9       -77.502749008703    -2.42643934037534    6370345.90916552
+     10      -77.5027660087087    -2.42643966148886    6370345.99404334
+     11      -77.5027656087379    -2.42643384506085    6370345.87603754
+     12      -77.5027395086921    -2.42643180858736    6370345.41235539
+     13      -77.5027431087481    -2.42646587440834    6370346.60457718
+     14      -77.5027345086328    -2.42646456305157    6370347.18192313
+     15      -77.5026075087557    -2.42645997713339    6370347.12357515
+     16       -77.502708008744    -2.42639441278052    6370345.90128054
+     17      -77.5027724087367    -2.42639875109561    6370347.12315726
+     18        -77.50277400872    -2.42639155179868    6370345.80110765
+     19      -77.5027706086965    -2.42637792612761    6370346.04164014
+     20      -77.5028825087346     -2.4263833815335    6370346.25329359
+     21      -77.5027946086993    -2.42641317386699    6370345.51822665
+     22      -77.5028175087138    -2.42641654383343     6370345.7806032
+     23      -77.5028258087539    -2.42641689644048    6370345.82809909
+     24      -77.5028233087072     -2.4264477669035    6370348.19756164
+     25      -77.5027906087383    -2.42644356532975    6370348.09256053
+     26      -77.5027921087054     -2.4264328414836    6370349.99260315
+     27        -77.50281610873    -2.42643461341385    6370349.93592605
+     28      -77.5029073087411    -2.42642207001246    6370343.89536773
+     29       -77.502905708733    -2.42638544574545    6370343.55317543
+     30      -77.5031931087249    -2.42640576686797    6370345.20866604
+     31      -77.5031892087693    -2.42644147898893    6370346.32523624
+

@@ -1,0 +1,483 @@
+disp('TRABAJO FINAL DE GEODESIA, COORDENADAS ENU -- TAISHA --')
+TRABAJO FINAL DE GEODESIA, COORDENADAS ENU -- TAISHA --
+disp('INICIO DEL TRABAJO')
+INICIO DEL TRABAJO
+%ESPE 2 -> POLO DE RADIACION -> X0
+%Los demás serán mi xp
+ESPE 2 
+{Unrecognized function or variable 'ESPE'.
+} 
+%ESPE 2
+ESPE 2 
+{Unrecognized function or variable 'ESPE'.
+} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+menu(30)
+Ingresando valores para el cálculo 1:
+Ingrese el valor de x1: 2758186.93840006
+Ingrese el valor de y1: -12444242.6817756
+Ingrese el valor de z1: -526378.622443675
+Ingresando valores para el cálculo 2:
+Ingrese el valor de x1: 2758219.31554006
+Ingrese el valor de y1: -12444238.9709156
+Ingrese el valor de z1: -526271.56322369
+Ingresando valores para el cálculo 3:
+Ingrese el valor de x1: 2758190.82354006
+Ingrese el valor de y1: -12444236.7707956
+Ingrese el valor de z1: -526466.664563662
+Ingresando valores para el cálculo 4:
+Ingrese el valor de x1: 2758190.15488006
+Ingrese el valor de y1: -12444236.4268756
+Ingrese el valor de z1: -526461.858803662
+Ingresando valores para el cálculo 5:
+Ingrese el valor de x1: 2758167.26268007
+Ingrese el valor de y1: -12444242.2201756 
+Ingrese el valor de z1: -526468.426963662
+Ingresando valores para el cálculo 6:
+Ingrese el valor de x1: 2758166.78450007
+Ingrese el valor de y1: -12444240.8851156
+Ingrese el valor de z1: -526464.226823662
+Ingresando valores para el cálculo 7:
+Ingrese el valor de x1: 2758202.72668006
+Ingrese el valor de y1: -12444235.0623156
+Ingrese el valor de z1: -526453.283503664
+Ingresando valores para el cálculo 8:
+Ingrese el valor de x1: 2758195.05494006
+Ingrese el valor de y1: -12444239.4127956
+Ingrese el valor de z1: -526390.815003673
+Ingresando valores para el cálculo 9:
+Ingrese el valor de x1: 2758191.37888006
+Ingrese el valor de y1: -12444240.3043556
+Ingrese el valor de z1: -526390.908883673
+Ingresando valores para el cálculo 10:
+Ingrese el valor de x1: 2758191.47880006
+Ingrese el valor de y1: -12444240.3439756
+Ingrese el valor de z1: -526389.268903673
+Ingresando valores para el cálculo 11:
+Ingrese el valor de x1: 2758197.06080006
+Ingrese el valor de y1: -12444238.6961556
+Ingrese el valor de z1: -526388.676703673
+Ingresando valores para el cálculo 12:
+Ingrese el valor de x1: 2758196.31080006
+Ingrese el valor de y1: -12444239.0134156
+Ingrese el valor de z1: -526398.303103672
+Ingresando valores para el cálculo 13:
+Ingrese el valor de x1: 2758198.31220006
+Ingrese el valor de y1: -12444239.2017956
+Ingrese el valor de z1: -526397.959103672
+Ingresando valores para el cálculo 14:
+Ingrese el valor de x1: 2758225.91346006
+Ingrese el valor de y1: -12444233.1682956
+Ingrese el valor de z1: -526396.667563672
+Ingresando valores para el cálculo 15:
+Ingrese el valor de x1: 2758204.25600006
+Ingrese el valor de y1: -12444238.7752556
+Ingrese el valor de z1: -526378.185803675
+Ingresando valores para el cálculo 16:
+Ingrese el valor de x1: 2758190.50418006
+Ingrese el valor de y1: -12444242.9375356
+Ingrese el valor de z1: -526379.457363674
+Ingresando valores para el cálculo 17:
+Ingrese el valor de x1: 2758189.91858006
+Ingrese el valor de y1: -12444241.9403356
+Ingrese el valor de z1: -526377.377323675
+Ingresando valores para el cálculo 18:
+Ingrese el valor de x1: 2758190.79938006 
+Ingrese el valor de y1: -12444242.4188556
+Ingrese el valor de z1: -526373.557443675
+Ingresando valores para el cálculo 19:
+Ingrese el valor de x1:  2758166.50506007
+Ingrese el valor de y1: -12444247.8489156
+Ingrese el valor de z1: -526375.099963675
+Ingresando valores para el cálculo 20:
+Ingrese el valor de x1: 2758185.23990006
+Ingrese el valor de y1: -12444242.0093156
+Ingrese el valor de z1: -526383.443123674
+Ingresando valores para el cálculo 21:
+Ingrese el valor de x1: 2758180.30056006
+Ingrese el valor de y1: -12444243.2668356
+Ingrese el valor de z1: -526384.401583674
+Ingresando valores para el cálculo 22:
+Ingrese el valor de x1: 2758178.50578006
+Ingrese el valor de y1: -12444243.7021756
+Ingrese el valor de z1: -526384.502723674
+Ingresando valores para el cálculo 23:
+Ingrese el valor de x1: 2758179.35638006
+Ingrese el valor de y1: 
+Ingrese el valor de z1: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('menu', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\menu.m', 16)" style="font-weight:bold">menu</a>
+(<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\menu.m',16,0)">line 16</a>)
+} 
+menu(30)
+Ingresando valores para el cálculo 1:
+Ingrese el valor de x1: 2758186.93840006
+Ingrese el valor de y1: -12444242.6817756
+Ingrese el valor de z1: -526378.622443675
+Ingresando valores para el cálculo 2:
+Ingrese el valor de x1: 2758219.31554006
+Ingrese el valor de y1: -12444238.9709156
+Ingrese el valor de z1: -526271.56322369
+Ingresando valores para el cálculo 3:
+Ingrese el valor de x1: 2758190.82354006
+Ingrese el valor de y1: -12444236.7707956
+Ingrese el valor de z1: -526466.664563662
+Ingresando valores para el cálculo 4:
+Ingrese el valor de x1: 2758190.15488006
+Ingrese el valor de y1: -12444236.4268756
+Ingrese el valor de z1: -526461.858803662
+Ingresando valores para el cálculo 5:
+Ingrese el valor de x1: 2758167.26268007
+Ingrese el valor de y1: -12444242.2201756
+Ingrese el valor de z1: -526468.426963662
+Ingresando valores para el cálculo 6:
+Ingrese el valor de x1: 2758166.78450007
+Ingrese el valor de y1: -12444240.8851156
+Ingrese el valor de z1: -526464.226823662
+Ingresando valores para el cálculo 7:
+Ingrese el valor de x1:  2758202.72668006
+Ingrese el valor de y1: -12444235.0623156
+Ingrese el valor de z1: -526453.283503664
+Ingresando valores para el cálculo 8:
+Ingrese el valor de x1: 2758195.05494006
+Ingrese el valor de y1: -12444239.4127956
+Ingrese el valor de z1: -526390.815003673
+Ingresando valores para el cálculo 9:
+Ingrese el valor de x1: 2758191.37888006
+Ingrese el valor de y1: -12444240.3043556
+Ingrese el valor de z1: -526390.908883673
+Ingresando valores para el cálculo 10:
+Ingrese el valor de x1: 2758191.47880006
+Ingrese el valor de y1: -12444240.3439756
+Ingrese el valor de z1: -526389.268903673
+Ingresando valores para el cálculo 11:
+Ingrese el valor de x1: 2758197.06080006
+Ingrese el valor de y1: -12444238.6961556
+Ingrese el valor de z1: -526388.676703673
+Ingresando valores para el cálculo 12:
+Ingrese el valor de x1:  2758196.31080006
+Ingrese el valor de y1: -12444239.0134156
+Ingrese el valor de z1: -526398.303103672
+Ingresando valores para el cálculo 13:
+Ingrese el valor de x1: 2758198.31220006
+Ingrese el valor de y1: -12444239.2017956
+Ingrese el valor de z1: -526397.959103672
+Ingresando valores para el cálculo 14:
+Ingrese el valor de x1: 2758225.91346006
+Ingrese el valor de y1: -12444233.1682956
+Ingrese el valor de z1: -526396.667563672
+Ingresando valores para el cálculo 15:
+Ingrese el valor de x1: 2758204.25600006
+Ingrese el valor de y1: -12444238.7752556
+Ingrese el valor de z1: -526378.185803675
+Ingresando valores para el cálculo 16:
+Ingrese el valor de x1: 2758190.50418006
+Ingrese el valor de y1: -12444242.9375356
+Ingrese el valor de z1: -526379.457363674
+Ingresando valores para el cálculo 17:
+Ingrese el valor de x1: 2758189.91858006
+Ingrese el valor de y1: -12444241.9403356
+Ingrese el valor de z1: -526377.377323675
+Ingresando valores para el cálculo 18:
+Ingrese el valor de x1: 2758190.79938006
+Ingrese el valor de y1: -12444242.4188556
+Ingrese el valor de z1: -526373.557443675
+Ingresando valores para el cálculo 19:
+Ingrese el valor de x1: 2758166.50506007
+Ingrese el valor de y1: -12444247.8489156
+Ingrese el valor de z1: -526375.099963675
+Ingresando valores para el cálculo 20:
+Ingrese el valor de x1: 2758185.23990006
+Ingrese el valor de y1: -12444242.0093156
+Ingrese el valor de z1: -526383.443123674
+Ingresando valores para el cálculo 21:
+Ingrese el valor de x1: 2758180.30056006
+Ingrese el valor de y1: -12444243.2668356
+Ingrese el valor de z1: -526384.401583674
+Ingresando valores para el cálculo 22:
+Ingrese el valor de x1: 2758178.50578006
+Ingrese el valor de y1: -12444243.7021756
+Ingrese el valor de z1: -526384.502723674
+Ingresando valores para el cálculo 23:
+Ingrese el valor de x1: 2758179.35638006
+Ingrese el valor de y1: -12444244.9696756
+Ingrese el valor de z1: -526393.281163672
+Ingresando valores para el cálculo 24:
+Ingrese el valor de x1: 2758186.46374006
+Ingrese el valor de y1: -12444243.4187756
+Ingrese el valor de z1: -526392.095663673
+Ingresando valores para el cálculo 25:
+Ingrese el valor de x1: 2758186.61984006
+Ingrese el valor de y1: -12444245.6651156
+Ingrese el valor de z1: -526389.162263673
+Ingresando valores para el cálculo 26:
+Ingrese el valor de x1: 2758181.38320006
+Ingrese el valor de y1: -12444246.7121756
+Ingrese el valor de z1: -526389.657923673
+Ingresando valores para el cálculo 27:
+Ingrese el valor de x1: 2758160.35240007
+Ingrese el valor de y1: -12444245.5855156
+Ingrese el valor de z1: -526385.874603674
+Ingresando valores para el cálculo 28:
+Ingrese el valor de x1: 2758160.86874007
+Ingrese el valor de y1: -12444246.2702156
+Ingrese el valor de z1: -526375.565123675
+Ingresando valores para el cálculo 29:
+Ingrese el valor de x1: 2758098.67060008
+Ingrese el valor de y1: -12444261.1121756
+Ingrese el valor de z1: -526381.347863674
+Ingresando valores para el cálculo 30:
+Ingrese el valor de x1: 2758099.52228008
+Ingrese el valor de y1: -12444260.9453556
+Ingrese el valor de z1: -526391.433883673
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('menu', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\menu.m', 43)" style="font-weight:bold">menu</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\menu.m',43,0)">line 43</a>)
+To assign to or create a variable in a table, the number of rows must
+match the height of the table.
+} 
+menu(1)
+Ingresando valores para el cálculo 1:
+Ingrese el valor de x1: 2758098.67060008
+Ingrese el valor de y1: -12444261.1121756
+Ingrese el valor de z1: -526391.433883673
+    <strong>Orden</strong>            <strong>E</strong>                    <strong>N</strong>                    <strong>U</strong>                       <strong>VariableDisplayFormat</strong>            
+    <strong>_____</strong>    <strong>_________________</strong>    <strong>_________________</strong>    <strong>_________________</strong>    <strong>____________________________________________</strong>
+
+      1      -15581.5127085712    -56447.2424011271    -12899.1835088253    {'%.5f'}    {'%.5f'}    {'%.5f'}    {'%.5f'}
+
+
+ans =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+    <strong>Orden</strong>            <strong>E</strong>                    <strong>N</strong>                    <strong>U</strong>                       <strong>VariableDisplayFormat</strong>            
+    <strong>_____</strong>    <strong>_________________</strong>    <strong>_________________</strong>    <strong>_________________</strong>    <strong>____________________________________________</strong>
+
+      1      -15581.5127085712    -56447.2424011271    -12899.1835088253    {'%.5f'}    {'%.5f'}    {'%.5f'}    {'%.5f'}
+
+menu(1)
+Ingresando valores para el cálculo 1:
+Ingrese el valor de x: 2758098.67060008
+Ingrese el valor de y: -12444261.1121756
+Ingrese el valor de z: -526391.433883673
+Ingrese el valor de x1: -12444261.1121756
+Ingrese el valor de y1: -526391.433883673
+Ingrese el valor de z1: -12444261.1121756
+Ingrese el valor de f: -12444260.9453556
+Ingrese el valor de l: 2758098.67060008
+    <strong>Orden</strong>          <strong>E</strong>                <strong>N</strong>                <strong>U</strong>       
+    <strong>_____</strong>    <strong>_____________</strong>    <strong>_____________</strong>    <strong>______________</strong>
+
+      1      1090011.18171    21406283.1956    -7467656.50496
+
+
+ans =
+
+  1×4 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+    <strong>Orden</strong>          <strong>E</strong>                <strong>N</strong>                <strong>U</strong>       
+    <strong>_____</strong>    <strong>_____________</strong>    <strong>_____________</strong>    <strong>______________</strong>
+
+      1      1090011.18171    21406283.1956    -7467656.50496
+
+clc
+menu(30)
+<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\menu.m',3,1)">3   </a>    e_vals = zeros(1, n);
+if system_dependent('IsDebugMode')==1, dbquit; end
+clc
+menu(30)
+<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\menu.m',3,1)">3   </a>    e_vals = zeros(1, n);
+if system_dependent('IsDebugMode')==1, dbquit; end
+clc
+menu(30)
+Ingresando valores para el cálculo 1:
+Ingrese el valor de x1: 2758186.93840006
+Ingrese el valor de y1: -12444242.6817756
+Ingrese el valor de z1: -526378.622443675
+Ingresando valores para el cálculo 2:
+Ingrese el valor de x1: 2758219.31554006
+Ingrese el valor de y1: -12444238.9709156
+Ingrese el valor de z1: -526271.56322369
+Ingresando valores para el cálculo 3:
+Ingrese el valor de x1: 2758190.82354006
+Ingrese el valor de y1: -12444236.7707956
+Ingrese el valor de z1: -526466.664563662
+Ingresando valores para el cálculo 4:
+Ingrese el valor de x1: 2758190.15488006
+Ingrese el valor de y1: -12444236.4268756
+Ingrese el valor de z1: -526461.858803662
+Ingresando valores para el cálculo 5:
+Ingrese el valor de x1: 2758167.26268007
+Ingrese el valor de y1: -12444242.2201756
+Ingrese el valor de z1: -526468.426963662
+Ingresando valores para el cálculo 6:
+Ingrese el valor de x1: 2758166.78450007
+Ingrese el valor de y1: -12444240.8851156
+Ingrese el valor de z1: -526464.226823662
+Ingresando valores para el cálculo 7:
+Ingrese el valor de x1: 2758202.72668006
+Ingrese el valor de y1: -12444235.0623156
+Ingrese el valor de z1: -526453.283503664
+Ingresando valores para el cálculo 8:
+Ingrese el valor de x1: 2758195.05494006
+Ingrese el valor de y1: -12444239.4127956
+Ingrese el valor de z1: -526390.815003673
+Ingresando valores para el cálculo 9:
+Ingrese el valor de x1: 2758191.37888006
+Ingrese el valor de y1: -12444240.3043556
+Ingrese el valor de z1: -526390.908883673
+Ingresando valores para el cálculo 10:
+Ingrese el valor de x1: 2758191.47880006
+Ingrese el valor de y1: -12444240.3439756
+Ingrese el valor de z1: -526389.268903673
+Ingresando valores para el cálculo 11:
+Ingrese el valor de x1: 2758197.06080006
+Ingrese el valor de y1: -12444238.6961556
+Ingrese el valor de z1: -526388.676703673
+Ingresando valores para el cálculo 12:
+Ingrese el valor de x1: 2758196.31080006
+Ingrese el valor de y1: -12444239.0134156
+Ingrese el valor de z1: -526398.303103672
+Ingresando valores para el cálculo 13:
+Ingrese el valor de x1: 2758198.31220006
+Ingrese el valor de y1: -12444239.2017956
+Ingrese el valor de z1: -526397.959103672
+Ingresando valores para el cálculo 14:
+Ingrese el valor de x1: 2758225.91346006
+Ingrese el valor de y1: -12444233.1682956
+Ingrese el valor de z1: -526396.667563672
+Ingresando valores para el cálculo 15:
+Ingrese el valor de x1: 2758204.25600006
+Ingrese el valor de y1: -12444238.7752556
+Ingrese el valor de z1: -526378.185803675
+Ingresando valores para el cálculo 16:
+Ingrese el valor de x1: 2758190.50418006
+Ingrese el valor de y1: -12444242.9375356
+Ingrese el valor de z1: -526379.457363674
+Ingresando valores para el cálculo 17:
+Ingrese el valor de x1: 2758189.91858006
+Ingrese el valor de y1: -12444241.9403356
+Ingrese el valor de z1: -526377.377323675
+Ingresando valores para el cálculo 18:
+Ingrese el valor de x1: 2758190.79938006 
+Ingrese el valor de y1: -12444242.4188556
+Ingrese el valor de z1: -526373.557443675
+Ingresando valores para el cálculo 19:
+Ingrese el valor de x1: 2758166.50506007
+Ingrese el valor de y1: -12444247.8489156
+Ingrese el valor de z1: -526375.099963675
+Ingresando valores para el cálculo 20:
+Ingrese el valor de x1: 2758185.23990006
+Ingrese el valor de y1: -12444242.0093156
+Ingrese el valor de z1: -526383.443123674
+Ingresando valores para el cálculo 21:
+Ingrese el valor de x1: 2758180.30056006
+Ingrese el valor de y1: -12444243.2668356
+Ingrese el valor de z1: -526384.401583674
+Ingresando valores para el cálculo 22:
+Ingrese el valor de x1: 2758178.50578006
+Ingrese el valor de y1: -12444243.7021756
+Ingrese el valor de z1: -526384.502723674
+Ingresando valores para el cálculo 23:
+Ingrese el valor de x1: 2758179.35638006
+Ingrese el valor de y1: -12444244.9696756
+Ingrese el valor de z1: -526393.281163672
+Ingresando valores para el cálculo 24:
+Ingrese el valor de x1: 2758186.46374006
+Ingrese el valor de y1: -12444243.4187756
+Ingrese el valor de z1: -526392.095663673
+Ingresando valores para el cálculo 25:
+Ingrese el valor de x1: 2758186.61984006
+Ingrese el valor de y1: -12444245.6651156
+Ingrese el valor de z1: -526389.162263673
+Ingresando valores para el cálculo 26:
+Ingrese el valor de x1: 2758181.38320006
+Ingrese el valor de y1: -12444246.7121756
+Ingrese el valor de z1: -526389.657923673
+Ingresando valores para el cálculo 27:
+Ingrese el valor de x1: 2758160.35240007
+Ingrese el valor de y1: -12444245.5855156
+Ingrese el valor de z1: -526385.874603674
+Ingresando valores para el cálculo 28:
+Ingrese el valor de x1: 2758160.86874007
+Ingrese el valor de y1: -12444246.2702156
+Ingrese el valor de z1: -526375.565123675
+Ingresando valores para el cálculo 29:
+Ingrese el valor de x1: 2758098.67060008
+Ingrese el valor de y1: -12444261.1121756
+Ingrese el valor de z1: -526381.347863674
+Ingresando valores para el cálculo 30:
+Ingrese el valor de x1: 2758099.52228008
+Ingrese el valor de y1: -12444260.9453556
+Ingrese el valor de z1: -526391.433883673
+    <strong>Orden</strong>         <strong>E</strong>               <strong>N</strong>               <strong>U</strong>      
+    <strong>_____</strong>    <strong>____________</strong>    <strong>____________</strong>    <strong>____________</strong>
+
+      1      -15549.44166    -56361.76744    -12892.94952
+      2       -15544.3687    -56306.71392    -12990.24856
+      3       -15543.3721    -56377.67998    -12806.28119
+      4      -15543.05668    -56377.28372    -12811.11898
+      5      -15549.81024    -56400.80328    -12809.71332
+      6      -15548.49653      -56400.396    -12813.92764
+      7      -15541.16316    -56363.19481    -12816.71942
+      8       -15545.8333    -56356.68729    -12879.29687
+      9      -15546.87909    -56360.25336     -12880.0086
+     10      -15546.91446    -56359.79198    -12881.58561
+     11      -15545.03271    -56354.28972    -12880.94614
+     12      -15545.38131    -56357.13468    -12871.72034
+     13      -15545.48512    -56355.10073    -12871.61221
+     14      -15538.29299     -56328.1685    -12866.83427
+     15       -15544.8083    -56344.95715    -12889.58841
+     16      -15549.54682    -56358.46688    -12891.34561
+     17       -15548.5752    -56358.61887    -12893.51281
+     18      -15549.01615    -56356.89682    -12897.03934
+     19      -15555.46592    -56380.68702    -12900.84803
+     20      -15548.84143    -56364.51538    -12888.62927
+     21      -15550.30613    -56369.48841    -12888.77329
+     22      -15550.81677    -56371.24171    -12889.06685
+     23      -15552.04728    -56372.30056    -12880.30581
+     24      -15550.19802    -56365.17689     -12879.9073
+     25      -15552.43578    -56364.28418    -12882.71279
+     26      -15553.70275    -56369.45329    -12883.37576
+     27        -15553.464    -56389.15627    -12891.71921
+     28      -15554.12632    -56386.34683    -12901.65346
+     29      -15571.57809    -56447.62083     -12909.6074
+     30       -15571.3755    -56449.02657    -12899.58424
+
+
+ans =
+
+  30×4 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+    <strong>Orden</strong>         <strong>E</strong>               <strong>N</strong>               <strong>U</strong>      
+    <strong>_____</strong>    <strong>____________</strong>    <strong>____________</strong>    <strong>____________</strong>
+
+      1      -15549.44166    -56361.76744    -12892.94952
+      2       -15544.3687    -56306.71392    -12990.24856
+      3       -15543.3721    -56377.67998    -12806.28119
+      4      -15543.05668    -56377.28372    -12811.11898
+      5      -15549.81024    -56400.80328    -12809.71332
+      6      -15548.49653      -56400.396    -12813.92764
+      7      -15541.16316    -56363.19481    -12816.71942
+      8       -15545.8333    -56356.68729    -12879.29687
+      9      -15546.87909    -56360.25336     -12880.0086
+     10      -15546.91446    -56359.79198    -12881.58561
+     11      -15545.03271    -56354.28972    -12880.94614
+     12      -15545.38131    -56357.13468    -12871.72034
+     13      -15545.48512    -56355.10073    -12871.61221
+     14      -15538.29299     -56328.1685    -12866.83427
+     15       -15544.8083    -56344.95715    -12889.58841
+     16      -15549.54682    -56358.46688    -12891.34561
+     17       -15548.5752    -56358.61887    -12893.51281
+     18      -15549.01615    -56356.89682    -12897.03934
+     19      -15555.46592    -56380.68702    -12900.84803
+     20      -15548.84143    -56364.51538    -12888.62927
+     21      -15550.30613    -56369.48841    -12888.77329
+     22      -15550.81677    -56371.24171    -12889.06685
+     23      -15552.04728    -56372.30056    -12880.30581
+     24      -15550.19802    -56365.17689     -12879.9073
+     25      -15552.43578    -56364.28418    -12882.71279
+     26      -15553.70275    -56369.45329    -12883.37576
+     27        -15553.464    -56389.15627    -12891.71921
+     28      -15554.12632    -56386.34683    -12901.65346
+     29      -15571.57809    -56447.62083     -12909.6074
+     30       -15571.3755    -56449.02657    -12899.58424
+
+diary off

@@ -1,0 +1,1163 @@
+Ingrese el valor de DI: 
+46
+
+h =
+
+    46
+
+Ingrese el valor de DH: 
+45.9887208308271
+
+dh =
+
+   45.9887
+
+Ingrese el valor de ha: 
+455.17228
+
+j =
+
+  455.1723
+
+Ingrese el valor de hb: 
+454.87457
+
+k =
+
+  454.8746
+
+Ingrese el valor de Rm: 
+6371008.714
+
+l =
+
+   6.3710e+06
+
+
+d =
+
+  -0.297709999999995
+
+
+lo =
+
+  45.995751547056194
+
+
+so =
+
+      1.146781568520000e+09 - 1.423319094912818e+10i
+
+
+kh =
+
+      2.493614842514365e+07 - 3.094930820425735e+08i
+
+           <strong>lo</strong>                         <strong>so</strong>                                   <strong>kh</strong>                
+    <strong>________________</strong>    <strong>_______________________________</strong>    <strong>__________________________________</strong>
+
+    45.9957515470562    1146781568.52-14233190949.1282i    24936148.4251436-309493082.042574i
+
+
+Re =
+
+  45.995751547056194
+
+Ingrese el valor de az: 
+[176 36 10]
+
+e =
+
+   176    36    10
+
+Ingrese el valor de la latitud: 
+[-2,22,52.53532]
+
+m =
+
+  Column 1
+
+  -2.000000000000000
+
+  Column 2
+
+  22.000000000000000
+
+  Column 3
+
+  52.535319999999999
+
+Ingrese el valor de so: 
+1146781568.52-14233190949.1282i
+
+n =
+
+      1.146781568520000e+09 - 1.423319094912820e+10i
+
+Ingrese el valor de h: 
+455.17228
+
+o =
+
+     4.551722800000000e+02
+
+Ingrese el valor de n: 
+11.44428		
+
+p =
+
+  11.444279999999999
+
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+El valor del azimut y de la latitud están en DMS: (1) Sí o (2) No: 
+1
+
+Op =
+
+     1
+
+
+dms =
+
+   1.0e+02 *
+
+   1.760000000000000   0.360000000000000   0.100000000000000
+  -0.020000000000000   0.220000000000000   0.525353200000000
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.766027777777778
+  -0.023812598111111
+
+El valor de Az1 es: 176.60278'
+El valor de fi1 es: -2.38126'
+----------------------------------------------
+Calculamos el valor del radio del Paralelo----------------------------------------------
+El valor de N es: 6378173.85498'
+--------------------------------------------------------
+Calculamos el valor del Azimut corregido al Elipsoide--------------------------------------------------------
+El valor del azimut es: 84233450786.89784'
+          <strong>Az1</strong>                  <strong>fi1</strong>                  <strong>N</strong>                          <strong>azimut</strong>              
+    <strong>________________</strong>    <strong>_________________</strong>    <strong>________________</strong>    <strong>__________________________________</strong>
+
+    176.602777777778    -2.38125981111111    6378173.85498235    84233450786.8978-1045456972584.21i
+
+
+Caz =
+
+      8.423345078689784e+10 - 1.045456972584215e+12i
+
+Ingrese el valor de la latitud: 
+[-2,22,52.53532]
+
+m =
+
+  -2.000000000000000  22.000000000000000  52.535319999999999
+
+Ingrese el valor de longitud: 
+[-77,14,1.16754]
+
+q =
+
+ -77.000000000000000  14.000000000000000   1.167540000000000
+
+Ingrese el valor de az: 
+84233450786.8978-1045456972584.21i
+
+e =
+
+      8.423345078689780e+10 - 1.045456972584210e+12i
+
+Los valores de las coordenadas geodésicas están en geodésicos decimales o en sexagésimales: (1) Sí, (2) No: 
+1
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('vertcat')" style="font-weight:bold">vertcat</a>
+Dimensions of arrays being concatenated are not consistent.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('pdirectogeodesia', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\pdirectogeodesia.m', 19)" style="font-weight:bold">pdirectogeodesia</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\pdirectogeodesia.m',19,0)">line 19</a>)
+           dms=[latitud;longitud;azimut]
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('reduccioneselipsoide', 'C:\Users\Usuario\Desktop\FOLDER'S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\reduccioneselipsoide.m', 51)" style="font-weight:bold">reduccioneselipsoide</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER'S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\reduccioneselipsoide.m',51,0)">line 51</a>)
+Pd=pdirectogeodesia(m,q,e)
+
+clc
+taquimetria(100,1.460,1.230,1,[191 53 55],[90 53 50],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   191    53    55
+    90    53    50
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.918986111111111
+   0.908972222222222
+
+El valor de la DH es 45.988721: 
+El valor de la V es -0.720218: 
+El valor de la DV es -0.535218: 
+El valor de la DV es 441.339782: 
+Ingrese el valor de la coordenada anterior: 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('taquimetria', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\taquimetria.m', 24)" style="font-weight:bold">taquimetria</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\taquimetria.m',24,0)">line 24</a>)
+} 
+clc
+taquimetria(100,1.460,1.230,1,[191 53 55],[90 53 50],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   191    53    55
+    90    53    50
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.918986111111111
+   0.908972222222222
+
+El valor de la DH es 45.988721: 
+
+DI =
+
+    46
+
+El valor de la DI es 46.000000: 
+El valor de la V es -0.720218: 
+El valor de la DV es -0.535218: 
+El valor de la Elevación es 441.339782: 
+Ingrese el valor de la coordenada anterior: 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('taquimetria', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\taquimetria.m', 25)" style="font-weight:bold">taquimetria</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\taquimetria.m',25,0)">line 25</a>)
+} 
+clc
+taquimetria(100,1.460,1.230,1,[191 53 55],[90 53 50],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   191    53    55
+    90    53    50
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.918986111111111
+   0.908972222222222
+
+El valor de la DH es 45.988721: 
+El valor de la DI es 46.000000: 
+El valor de la V es -0.720218: 
+El valor de la DV es -0.535218: 
+El valor de la Elevación es 441.339782: 
+Ingrese el valor de la coordenada anterior: 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('taquimetria', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\taquimetria.m', 25)" style="font-weight:bold">taquimetria</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\taquimetria.m',25,0)">line 25</a>)
+} 
+reducciones(46,45.988721,455.17228,454.87457)
+
+d =
+
+  -0.297709999999995
+
+
+lo =
+
+  45.995751547056194
+
+
+so =
+
+      1.146781568520000e+09 - 1.423319094912818e+10i
+
+
+kh =
+
+      2.493614833341419e+07 - 3.094930809040804e+08i
+
+           <strong>lo</strong>                         <strong>so</strong>                                  <strong>kh</strong>                
+    <strong>________________</strong>    <strong>_______________________________</strong>    <strong>_________________________________</strong>
+
+    45.9957515470562    1146781568.52-14233190949.1282i    24936148.3334142-309493080.90408i
+
+
+ans =
+
+  45.995751547056194
+
+correccionazimut([176 36 10],[2,22,52.53532],1146781568.52,455.17228,11.44428)
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+El valor del azimut y de la latitud están en DMS: (1) Sí o (2) No: 
+1
+
+Op =
+
+     1
+
+
+dms =
+
+   1.0e+02 *
+
+   1.760000000000000   0.360000000000000   0.100000000000000
+   0.020000000000000   0.220000000000000   0.525353200000000
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.766027777777778
+   0.023812598111111
+
+El valor de Az1 es: 176.60278'
+El valor de fi1 es: 2.38126'
+----------------------------------------------
+Calculamos el valor del radio del Paralelo----------------------------------------------
+El valor de N es: 6378173.85498'
+--------------------------------------------------------
+Calculamos el valor del Azimut corregido al Elipsoide--------------------------------------------------------
+El valor del azimut es: -84233450433.69337'
+          <strong>Az1</strong>                 <strong>fi1</strong>                  <strong>N</strong>                 <strong>azimut</strong>      
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>_________________</strong>
+
+    176.602777777778    2.38125981111111    6378173.85498235    -84233450433.6934
+
+
+ans =
+
+    -8.423345043369337e+10
+
+clc
+taquimetria(100,1.460,1.230,1,[191 53 55],[90 53 50],1.415)
+Los valor de az y av están en DMS: (1) Sí y (2) No: 
+1
+
+sw =
+
+     1
+
+
+dms =
+
+   191    53    55
+    90    53    50
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.918986111111111
+   0.908972222222222
+
+El valor de la DH es 45.988721: 
+El valor de la DI es 46.000000: 
+El valor de la V es -0.720218: 
+El valor de la DV es -0.535218: 
+El valor de la Elevación es 441.339782: 
+Ingrese el valor de la coordenada anterior: 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('taquimetria', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\taquimetria.m', 25)" style="font-weight:bold">taquimetria</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\taquimetria.m',25,0)">line 25</a>)
+} 
+reducciones(46,45.988721,454.341382,454.240357)
+
+d =
+
+  -0.101024999999993
+
+
+lo =
+
+  45.996609232321497
+
+
+so =
+
+      1.146781568520000e+09 - 1.423320456254079e+10i
+
+
+kh =
+
+      2.493614833341419e+07 - 3.094933769204147e+08i
+
+           <strong>lo</strong>                         <strong>so</strong>                                   <strong>kh</strong>                
+    <strong>________________</strong>    <strong>_______________________________</strong>    <strong>__________________________________</strong>
+
+    45.9966092323215    1146781568.52-14233204562.5408i    24936148.3334142-309493376.920415i
+
+
+ans =
+
+  45.996609232321497
+
+ correccionazimut([191 53 55],[2,22,52.53532],1146781568.52,454.240357,12.99677)
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+El valor del azimut y de la latitud están en DMS: (1) Sí o (2) No: 
+1
+
+Op =
+
+     1
+
+
+dms =
+
+   1.0e+02 *
+
+   1.910000000000000   0.530000000000000   0.550000000000000
+   0.020000000000000   0.220000000000000   0.525353200000000
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.918986111111111
+   0.023812598111111
+
+El valor de Az1 es: 191.89861'
+El valor de fi1 es: 2.38126'
+----------------------------------------------
+Calculamos el valor del radio del Paralelo----------------------------------------------
+El valor de N es: 6378173.85498'
+--------------------------------------------------------
+Calculamos el valor del Azimut corregido al Elipsoide--------------------------------------------------------
+El valor del azimut es: 377215136669.39166'
+          <strong>Az1</strong>                 <strong>fi1</strong>                  <strong>N</strong>                 <strong>azimut</strong>     
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    191.898611111111    2.38125981111111    6378173.85498235    377215136669.392
+
+
+ans =
+
+     3.772151366693917e+11
+
+fi1
+{Unrecognized function or variable 'fi1'.
+} 
+correccionazimut
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+El valor del azimut y de la latitud están en DMS: (1) Sí o (2) No: 
+1
+
+Op =
+
+     1
+
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('correccionazimut', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\correccionazimut.m', 19)" style="font-weight:bold">correccionazimut</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\correccionazimut.m',19,0)">line 19</a>)
+        dms=[Az;fi]
+} 
+clc
+correccionazimut([191 53 55],[-2,-22,-52.53532],45.9996,454.341382,13.00160)
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+El valor del azimut y de la latitud están en DMS: (1) Sí o (2) No: 
+1
+
+Op =
+
+     1
+
+
+dms =
+
+   1.0e+02 *
+
+   1.910000000000000   0.530000000000000   0.550000000000000
+  -0.020000000000000  -0.220000000000000  -0.525353200000000
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dms2degrees>validateInput', 'C:\Program Files\Polyspace\R2020b\toolbox\map\map\dms2degrees.m', 81)" style="font-weight:bold">dms2degrees>validateInput</a> (<a href="matlab: opentoline('C:\Program Files\Polyspace\R2020b\toolbox\map\map\dms2degrees.m',81,0)">line 81</a>)
+Negative element follows non-zero element in row 2.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dms2degrees', 'C:\Program Files\Polyspace\R2020b\toolbox\map\map\dms2degrees.m', 52)" style="font-weight:bold">dms2degrees</a> (<a href="matlab: opentoline('C:\Program Files\Polyspace\R2020b\toolbox\map\map\dms2degrees.m',52,0)">line 52</a>)
+validateInput(dms)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('correccionazimut', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\correccionazimut.m', 21)" style="font-weight:bold">correccionazimut</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\correccionazimut.m',21,0)">line 21</a>)
+        angleInDegrees = dms2degrees(dms)
+} 
+correccionazimut([191 53 55],[2,22,52.53532],45.9996,454.341382,13.00160)
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+El valor del azimut y de la latitud están en DMS: (1) Sí o (2) No: 
+1
+
+Op =
+
+     1
+
+
+dms =
+
+   1.0e+02 *
+
+   1.910000000000000   0.530000000000000   0.550000000000000
+   0.020000000000000   0.220000000000000   0.525353200000000
+
+
+angleInDegrees =
+
+   1.0e+02 *
+
+   1.918986111111111
+   0.023812598111111
+
+El valor de Az1 es: 191.89861'
+El valor de fi1 es: 2.38126'
+----------------------------------------------
+Calculamos el valor del radio del Paralelo----------------------------------------------
+El valor de N es: 6378173.85498'
+--------------------------------------------------------
+Calculamos el valor del Azimut corregido al Elipsoide--------------------------------------------------------
+El valor del azimut es: 15337.33686'
+          <strong>Az1</strong>                 <strong>fi1</strong>                  <strong>N</strong>                 <strong>azimut</strong>     
+    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>    <strong>________________</strong>
+
+    191.898611111111    2.38125981111111    6378173.85498235    15337.3368605192
+
+
+ans =
+
+     1.533733686051925e+04
+
+
+ans =
+
+     6378137
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+latitud =
+
+     0     0     0
+
+
+angleInDegrees =
+
+     0
+     0
+
+
+ans =
+
+      959972
+
+
+ans =
+
+     5444270
+
+
+ans =
+
+     3170374
+
+
+latitud =
+
+  Column 1
+
+                   0
+
+  Column 2
+
+  15.000000000000000
+
+  Column 3
+
+  12.231540000000001
+
+{Error using
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('dms2degrees>validateInput', 'C:\Program Files\Polyspace\R2020b\toolbox\map\map\dms2degrees.m', 81)" style="font-weight:bold">dms2degrees>validateInput</a>
+(<a href="matlab: opentoline('C:\Program Files\Polyspace\R2020b\toolbox\map\map\dms2degrees.m',81,0)">line 81</a>)
+Negative element
+follows non-zero
+element in row 2.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dms2degrees', 'C:\Program Files\Polyspace\R2020b\toolbox\map\map\dms2degrees.m', 52)" style="font-weight:bold">dms2degrees</a>
+(<a href="matlab: opentoline('C:\Program Files\Polyspace\R2020b\toolbox\map\map\dms2degrees.m',52,0)">line 52</a>)
+validateInput(dms)
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('GeodesicCalculator/CalcularButton_7Pushed', 'C:\Users\Usuario\Documents\MATLAB\Examples\R2020b\matlab\AppDesignerTreeExample\GeodesicCalculator.mlapp', 415)" style="font-weight:bold">GeodesicCalculator/CalcularButton_7Pushed</a>
+(<a href="matlab: opentoline('C:\Users\Usuario\Documents\MATLAB\Examples\R2020b\matlab\AppDesignerTreeExample\GeodesicCalculator.mlapp',415,0)">line 415</a>)
+            angleInDegrees=dms2degrees(dms)} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\Polyspace\R2020b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 386)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\Polyspace\R2020b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',386,0)">line 386</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+{Unrecognized
+function or variable
+'Latitud'.
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('GeodesicCalculator/NButtonPushed', 'C:\Users\Usuario\Documents\MATLAB\Examples\R2020b\matlab\AppDesignerTreeExample\GeodesicCalculator.mlapp', 543)" style="font-weight:bold">GeodesicCalculator/NButtonPushed</a>
+(<a href="matlab: opentoline('C:\Users\Usuario\Documents\MATLAB\Examples\R2020b\matlab\AppDesignerTreeExample\GeodesicCalculator.mlapp',543,0)">line 543</a>)
+            if
+            app.NButton
+            ==
+            Latitud
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\Polyspace\R2020b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 386)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\Polyspace\R2020b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',386,0)">line 386</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+
+app = 
+
+  <a href="matlab:helpPopup GeodesicCalculator" style="font-weight:bold">GeodesicCalculator</a> with properties:
+
+                                               UIFigure: [1×1 Figure]
+                                             GridLayout: [1×1 GridLayout]
+                                              LeftPanel: [1×1 Panel]
+                                            CenterPanel: [1×1 Panel]
+                      CALCULADORADEGEODESIAGENERALLabel: [1×1 Label]
+                                               TabGroup: [1×1 TabGroup]
+                                        CCoordenadasTab: [1×1 Tab]
+                                   QudeseacalcularPanel: [1×1 Panel]
+               CalculodetransformacindeCoordenadasPanel: [1×1 Panel]
+           DeCoordenadasxyzaLatitudLongitudyAlturaLabel: [1×1 Label]
+                        IngreseelvalordexEditFieldLabel: [1×1 Label]
+                             IngreseelvalordexEditField: [1×1 NumericEditField]
+                        IngreseelvalordeyEditFieldLabel: [1×1 Label]
+                             IngreseelvalordeyEditField: [1×1 NumericEditField]
+                        IngreseelvalordezEditFieldLabel: [1×1 Label]
+                             IngreseelvalordezEditField: [1×1 NumericEditField]
+                                  LatitudEditFieldLabel: [1×1 Label]
+                                       LatitudEditField: [1×1 NumericEditField]
+                                 LongitudEditFieldLabel: [1×1 Label]
+                                      LongitudEditField: [1×1 NumericEditField]
+                                   AlturaEditFieldLabel: [1×1 Label]
+                                        AlturaEditField: [1×1 NumericEditField]
+           DeCoordenadasLatitudLongitudyAlturaaxyzLabel: [1×1 Label]
+     IngreseelvalordelalatitudendecimalesEditFieldLabel: [1×1 Label]
+          IngreseelvalordelalatitudendecimalesEditField: [1×1 NumericEditField]
+    IngreseelvalordelalongitudendecimalesEditFieldLabel: [1×1 Label]
+         IngreseelvalordelalongitudendecimalesEditField: [1×1 NumericEditField]
+                          EnGradosMinutosySegundosLabel: [1×1 Label]
+                                           LatitudLabel: [1×1 Label]
+                                          LongitudLabel: [1×1 Label]
+                 IngreseelvalordelaalturaEditFieldLabel: [1×1 Label]
+                      IngreseelvalordelaalturaEditField: [1×1 NumericEditField]
+                                         CalcularButton: [1×1 Button]
+                                       CalcularButton_2: [1×1 Button]
+                                       CalcularButton_3: [1×1 Button]
+         TiposdeElipsodidesalquedeseaustedcalcularLabel: [1×1 Label]
+                                             GRS80Label: [1×1 Label]
+                                       CalcularButton_4: [1×1 Button]
+                                       CalcularButton_5: [1×1 Button]
+                                             WGS84Label: [1×1 Label]
+                                           HayfordLabel: [1×1 Label]
+                                   GradosEditFieldLabel: [1×1 Label]
+                                        GradosEditField: [1×1 NumericEditField]
+                                  MinutosEditFieldLabel: [1×1 Label]
+                                       MinutosEditField: [1×1 NumericEditField]
+                                 SegundosEditFieldLabel: [1×1 Label]
+                                      SegundosEditField: [1×1 NumericEditField]
+                                 GradosEditField_2Label: [1×1 Label]
+                                      GradosEditField_2: [1×1 NumericEditField]
+                                MinutosEditField_2Label: [1×1 Label]
+                                     MinutosEditField_2: [1×1 NumericEditField]
+                                 SegunfosEditFieldLabel: [1×1 Label]
+                                      SegunfosEditField: [1×1 NumericEditField]
+                                       CalcularButton_6: [1×1 Button]
+                                           GRS80Label_2: [1×1 Label]
+                                           WGS84Label_2: [1×1 Label]
+                                         HayfordLabel_2: [1×1 Label]
+                 IngreseelvalordelaAlturaEditFieldLabel: [1×1 Label]
+                      IngreseelvalordelaAlturaEditField: [1×1 NumericEditField]
+                                       CalcularButton_7: [1×1 Button]
+                                       CalcularButton_8: [1×1 Button]
+                                       CalcularButton_9: [1×1 Button]
+                                           GRS80Label_3: [1×1 Label]
+                                           WGS84Label_3: [1×1 Label]
+                                         HayfordLabel_3: [1×1 Label]
+                                      xEditField_3Label: [1×1 Label]
+                                           xEditField_3: [1×1 EditField]
+                                      yEditField_3Label: [1×1 Label]
+                                           yEditField_3: [1×1 EditField]
+                                      zEditField_3Label: [1×1 Label]
+                                           zEditField_3: [1×1 EditField]
+                                      xEditField_4Label: [1×1 Label]
+                                           xEditField_4: [1×1 EditField]
+                                      yEditField_4Label: [1×1 Label]
+                                           yEditField_4: [1×1 EditField]
+                                      zEditField_4Label: [1×1 Label]
+                                           zEditField_4: [1×1 EditField]
+                                                NButton: [1×1 Button]
+                                                SButton: [1×1 Button]
+                                                EButton: [1×1 Button]
+                                                OButton: [1×1 Button]
+                                                   Tab2: [1×1 Tab]
+                                             RightPanel: [1×1 Panel]
+                                                      x: 0
+                                                      y: 0
+                                                      z: 0
+                                                latitud: 0
+                                               longitud: 0
+                                                 altura: 0
+                                                Latitud: 0
+                                               Longitud: 0
+                                               Latitud1: 0
+                                              Longitud1: 0
+                                                     v1: 0
+                                                     v2: 0
+                                                     v3: 0
+                                                    v11: 0
+                                                    v12: 15
+                                                    v13: 12.231540000000001
+                                                   Este: 0
+                                                  Norte: [1×1 Button]
+                                                    Sur: 0
+                                                  Oeste: 0
+
+
+app = 
+
+  <a href="matlab:helpPopup GeodesicCalculator" style="font-weight:bold">GeodesicCalculator</a> with properties:
+
+                                               UIFigure: [1×1 Figure]
+                                             GridLayout: [1×1 GridLayout]
+                                              LeftPanel: [1×1 Panel]
+                                            CenterPanel: [1×1 Panel]
+                      CALCULADORADEGEODESIAGENERALLabel: [1×1 Label]
+                                               TabGroup: [1×1 TabGroup]
+                                        CCoordenadasTab: [1×1 Tab]
+                                   QudeseacalcularPanel: [1×1 Panel]
+               CalculodetransformacindeCoordenadasPanel: [1×1 Panel]
+           DeCoordenadasxyzaLatitudLongitudyAlturaLabel: [1×1 Label]
+                        IngreseelvalordexEditFieldLabel: [1×1 Label]
+                             IngreseelvalordexEditField: [1×1 NumericEditField]
+                        IngreseelvalordeyEditFieldLabel: [1×1 Label]
+                             IngreseelvalordeyEditField: [1×1 NumericEditField]
+                        IngreseelvalordezEditFieldLabel: [1×1 Label]
+                             IngreseelvalordezEditField: [1×1 NumericEditField]
+                                  LatitudEditFieldLabel: [1×1 Label]
+                                       LatitudEditField: [1×1 NumericEditField]
+                                 LongitudEditFieldLabel: [1×1 Label]
+                                      LongitudEditField: [1×1 NumericEditField]
+                                   AlturaEditFieldLabel: [1×1 Label]
+                                        AlturaEditField: [1×1 NumericEditField]
+           DeCoordenadasLatitudLongitudyAlturaaxyzLabel: [1×1 Label]
+     IngreseelvalordelalatitudendecimalesEditFieldLabel: [1×1 Label]
+          IngreseelvalordelalatitudendecimalesEditField: [1×1 NumericEditField]
+    IngreseelvalordelalongitudendecimalesEditFieldLabel: [1×1 Label]
+         IngreseelvalordelalongitudendecimalesEditField: [1×1 NumericEditField]
+                          EnGradosMinutosySegundosLabel: [1×1 Label]
+                                           LatitudLabel: [1×1 Label]
+                                          LongitudLabel: [1×1 Label]
+                 IngreseelvalordelaalturaEditFieldLabel: [1×1 Label]
+                      IngreseelvalordelaalturaEditField: [1×1 NumericEditField]
+                                         CalcularButton: [1×1 Button]
+                                       CalcularButton_2: [1×1 Button]
+                                       CalcularButton_3: [1×1 Button]
+         TiposdeElipsodidesalquedeseaustedcalcularLabel: [1×1 Label]
+                                             GRS80Label: [1×1 Label]
+                                       CalcularButton_4: [1×1 Button]
+                                       CalcularButton_5: [1×1 Button]
+                                             WGS84Label: [1×1 Label]
+                                           HayfordLabel: [1×1 Label]
+                                   GradosEditFieldLabel: [1×1 Label]
+                                        GradosEditField: [1×1 NumericEditField]
+                                  MinutosEditFieldLabel: [1×1 Label]
+                                       MinutosEditField: [1×1 NumericEditField]
+                                 SegundosEditFieldLabel: [1×1 Label]
+                                      SegundosEditField: [1×1 NumericEditField]
+                                 GradosEditField_2Label: [1×1 Label]
+                                      GradosEditField_2: [1×1 NumericEditField]
+                                MinutosEditField_2Label: [1×1 Label]
+                                     MinutosEditField_2: [1×1 NumericEditField]
+                                 SegunfosEditFieldLabel: [1×1 Label]
+                                      SegunfosEditField: [1×1 NumericEditField]
+                                       CalcularButton_6: [1×1 Button]
+                                           GRS80Label_2: [1×1 Label]
+                                           WGS84Label_2: [1×1 Label]
+                                         HayfordLabel_2: [1×1 Label]
+                 IngreseelvalordelaAlturaEditFieldLabel: [1×1 Label]
+                      IngreseelvalordelaAlturaEditField: [1×1 NumericEditField]
+                                       CalcularButton_7: [1×1 Button]
+                                       CalcularButton_8: [1×1 Button]
+                                       CalcularButton_9: [1×1 Button]
+                                           GRS80Label_3: [1×1 Label]
+                                           WGS84Label_3: [1×1 Label]
+                                         HayfordLabel_3: [1×1 Label]
+                                      xEditField_3Label: [1×1 Label]
+                                           xEditField_3: [1×1 EditField]
+                                      yEditField_3Label: [1×1 Label]
+                                           yEditField_3: [1×1 EditField]
+                                      zEditField_3Label: [1×1 Label]
+                                           zEditField_3: [1×1 EditField]
+                                      xEditField_4Label: [1×1 Label]
+                                           xEditField_4: [1×1 EditField]
+                                      yEditField_4Label: [1×1 Label]
+                                           yEditField_4: [1×1 EditField]
+                                      zEditField_4Label: [1×1 Label]
+                                           zEditField_4: [1×1 EditField]
+                                                NButton: [1×1 Button]
+                                                SButton: [1×1 Button]
+                                                EButton: [1×1 Button]
+                                                OButton: [1×1 Button]
+                                                   Tab2: [1×1 Tab]
+                                             RightPanel: [1×1 Panel]
+                                                      x: 0
+                                                      y: 0
+                                                      z: 0
+                                                latitud: 0
+                                               longitud: 0
+                                                 altura: 0
+                                                Latitud: 0
+                                               Longitud: 0
+                                               Latitud1: 0
+                                              Longitud1: 0
+                                                     v1: 78
+                                                     v2: 30
+                                                     v3: 0.986320000000000
+                                                    v11: 0
+                                                    v12: 15
+                                                    v13: 12.231540000000001
+                                                   Este: 0
+                                                  Norte: [1×1 Button]
+                                                    Sur: 0
+                                                  Oeste: [1×1 Button]
+
+
+latitud =
+
+  Column 1
+
+                   0
+
+  Column 2
+
+  15.000000000000000
+
+  Column 3
+
+  12.231540000000001
+
+
+angleInDegrees =
+
+   0.253397650000000
+  78.500273977777780
+
+{Unrecognized
+function or variable
+'Latitud1'.
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('GeodesicCalculator/CalcularButton_7Pushed', 'C:\Users\Usuario\Documents\MATLAB\Examples\R2020b\matlab\AppDesignerTreeExample\GeodesicCalculator.mlapp', 442)" style="font-weight:bold">GeodesicCalculator/CalcularButton_7Pushed</a>
+(<a href="matlab: opentoline('C:\Users\Usuario\Documents\MATLAB\Examples\R2020b\matlab\AppDesignerTreeExample\GeodesicCalculator.mlapp',442,0)">line 442</a>)
+            N=(a)/(sqrt(1-e1*sind(Latitud1)^2));} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\Polyspace\R2020b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 386)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\Polyspace\R2020b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',386,0)">line 386</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+
+latitud =
+
+  Column 1
+
+                   0
+
+  Column 2
+
+  15.000000000000000
+
+  Column 3
+
+  12.231540000000001
+
+
+angleInDegrees =
+
+   0.253397650000000
+  78.500273977777780
+
+{Unrecognized
+function or variable
+'Latitud1'.
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('GeodesicCalculator/CalcularButton_7Pushed', 'C:\Users\Usuario\Documents\MATLAB\Examples\R2020b\matlab\AppDesignerTreeExample\GeodesicCalculator.mlapp', 442)" style="font-weight:bold">GeodesicCalculator/CalcularButton_7Pushed</a>
+(<a href="matlab: opentoline('C:\Users\Usuario\Documents\MATLAB\Examples\R2020b\matlab\AppDesignerTreeExample\GeodesicCalculator.mlapp',442,0)">line 442</a>)
+            N=(a)/(sqrt(1-e1*sind(Latitud1)^2));} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\Polyspace\R2020b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 386)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\Polyspace\R2020b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',386,0)">line 386</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+
+app = 
+
+  <a href="matlab:helpPopup GeodesicCalculator" style="font-weight:bold">GeodesicCalculator</a> with properties:
+
+                                               UIFigure: [1×1 Figure]
+                                             GridLayout: [1×1 GridLayout]
+                                              LeftPanel: [1×1 Panel]
+                                            CenterPanel: [1×1 Panel]
+                      CALCULADORADEGEODESIAGENERALLabel: [1×1 Label]
+                                               TabGroup: [1×1 TabGroup]
+                                        CCoordenadasTab: [1×1 Tab]
+                                   QudeseacalcularPanel: [1×1 Panel]
+               CalculodetransformacindeCoordenadasPanel: [1×1 Panel]
+           DeCoordenadasxyzaLatitudLongitudyAlturaLabel: [1×1 Label]
+                        IngreseelvalordexEditFieldLabel: [1×1 Label]
+                             IngreseelvalordexEditField: [1×1 NumericEditField]
+                        IngreseelvalordeyEditFieldLabel: [1×1 Label]
+                             IngreseelvalordeyEditField: [1×1 NumericEditField]
+                        IngreseelvalordezEditFieldLabel: [1×1 Label]
+                             IngreseelvalordezEditField: [1×1 NumericEditField]
+                                  LatitudEditFieldLabel: [1×1 Label]
+                                       LatitudEditField: [1×1 NumericEditField]
+                                 LongitudEditFieldLabel: [1×1 Label]
+                                      LongitudEditField: [1×1 NumericEditField]
+                                   AlturaEditFieldLabel: [1×1 Label]
+                                        AlturaEditField: [1×1 NumericEditField]
+           DeCoordenadasLatitudLongitudyAlturaaxyzLabel: [1×1 Label]
+     IngreseelvalordelalatitudendecimalesEditFieldLabel: [1×1 Label]
+          IngreseelvalordelalatitudendecimalesEditField: [1×1 NumericEditField]
+    IngreseelvalordelalongitudendecimalesEditFieldLabel: [1×1 Label]
+         IngreseelvalordelalongitudendecimalesEditField: [1×1 NumericEditField]
+                          EnGradosMinutosySegundosLabel: [1×1 Label]
+                                           LatitudLabel: [1×1 Label]
+                                          LongitudLabel: [1×1 Label]
+                 IngreseelvalordelaalturaEditFieldLabel: [1×1 Label]
+                      IngreseelvalordelaalturaEditField: [1×1 NumericEditField]
+                                         CalcularButton: [1×1 Button]
+                                       CalcularButton_2: [1×1 Button]
+                                       CalcularButton_3: [1×1 Button]
+         TiposdeElipsodidesalquedeseaustedcalcularLabel: [1×1 Label]
+                                             GRS80Label: [1×1 Label]
+                                       CalcularButton_4: [1×1 Button]
+                                       CalcularButton_5: [1×1 Button]
+                                             WGS84Label: [1×1 Label]
+                                           HayfordLabel: [1×1 Label]
+                                   GradosEditFieldLabel: [1×1 Label]
+                                        GradosEditField: [1×1 NumericEditField]
+                                  MinutosEditFieldLabel: [1×1 Label]
+                                       MinutosEditField: [1×1 NumericEditField]
+                                 SegundosEditFieldLabel: [1×1 Label]
+                                      SegundosEditField: [1×1 NumericEditField]
+                                 GradosEditField_2Label: [1×1 Label]
+                                      GradosEditField_2: [1×1 NumericEditField]
+                                MinutosEditField_2Label: [1×1 Label]
+                                     MinutosEditField_2: [1×1 NumericEditField]
+                                 SegunfosEditFieldLabel: [1×1 Label]
+                                      SegunfosEditField: [1×1 NumericEditField]
+                                       CalcularButton_6: [1×1 Button]
+                                           GRS80Label_2: [1×1 Label]
+                                           WGS84Label_2: [1×1 Label]
+                                         HayfordLabel_2: [1×1 Label]
+                 IngreseelvalordelaAlturaEditFieldLabel: [1×1 Label]
+                      IngreseelvalordelaAlturaEditField: [1×1 NumericEditField]
+                                       CalcularButton_7: [1×1 Button]
+                                       CalcularButton_8: [1×1 Button]
+                                       CalcularButton_9: [1×1 Button]
+                                           GRS80Label_3: [1×1 Label]
+                                           WGS84Label_3: [1×1 Label]
+                                         HayfordLabel_3: [1×1 Label]
+                                      xEditField_3Label: [1×1 Label]
+                                           xEditField_3: [1×1 EditField]
+                                      yEditField_3Label: [1×1 Label]
+                                           yEditField_3: [1×1 EditField]
+                                      zEditField_3Label: [1×1 Label]
+                                           zEditField_3: [1×1 EditField]
+                                      xEditField_4Label: [1×1 Label]
+                                           xEditField_4: [1×1 EditField]
+                                      yEditField_4Label: [1×1 Label]
+                                           yEditField_4: [1×1 EditField]
+                                      zEditField_4Label: [1×1 Label]
+                                           zEditField_4: [1×1 EditField]
+                                                NButton: [1×1 Button]
+                                                SButton: [1×1 Button]
+                                                EButton: [1×1 Button]
+                                                OButton: [1×1 Button]
+                                                   Tab2: [1×1 Tab]
+                                             RightPanel: [1×1 Panel]
+                                                      x: 0
+                                                      y: 0
+                                                      z: 0
+                                                latitud: 0
+                                               longitud: 0
+                                                 altura: 0
+                                                Latitud: 0
+                                               Longitud: 0
+                                               Latitud1: 0
+                                              Longitud1: 0
+                                                     v1: 0
+                                                     v2: 0
+                                                     v3: 0
+                                                    v11: 0
+                                                    v12: 15
+                                                    v13: 12.231540000000001
+                                                   Este: 0
+                                                  Norte: [1×1 Button]
+                                                    Sur: 0
+                                                  Oeste: 0
+
+
+app = 
+
+  <a href="matlab:helpPopup GeodesicCalculator" style="font-weight:bold">GeodesicCalculator</a> with properties:
+
+                                               UIFigure: [1×1 Figure]
+                                             GridLayout: [1×1 GridLayout]
+                                              LeftPanel: [1×1 Panel]
+                                            CenterPanel: [1×1 Panel]
+                      CALCULADORADEGEODESIAGENERALLabel: [1×1 Label]
+                                               TabGroup: [1×1 TabGroup]
+                                        CCoordenadasTab: [1×1 Tab]
+                                   QudeseacalcularPanel: [1×1 Panel]
+               CalculodetransformacindeCoordenadasPanel: [1×1 Panel]
+           DeCoordenadasxyzaLatitudLongitudyAlturaLabel: [1×1 Label]
+                        IngreseelvalordexEditFieldLabel: [1×1 Label]
+                             IngreseelvalordexEditField: [1×1 NumericEditField]
+                        IngreseelvalordeyEditFieldLabel: [1×1 Label]
+                             IngreseelvalordeyEditField: [1×1 NumericEditField]
+                        IngreseelvalordezEditFieldLabel: [1×1 Label]
+                             IngreseelvalordezEditField: [1×1 NumericEditField]
+                                  LatitudEditFieldLabel: [1×1 Label]
+                                       LatitudEditField: [1×1 NumericEditField]
+                                 LongitudEditFieldLabel: [1×1 Label]
+                                      LongitudEditField: [1×1 NumericEditField]
+                                   AlturaEditFieldLabel: [1×1 Label]
+                                        AlturaEditField: [1×1 NumericEditField]
+           DeCoordenadasLatitudLongitudyAlturaaxyzLabel: [1×1 Label]
+     IngreseelvalordelalatitudendecimalesEditFieldLabel: [1×1 Label]
+          IngreseelvalordelalatitudendecimalesEditField: [1×1 NumericEditField]
+    IngreseelvalordelalongitudendecimalesEditFieldLabel: [1×1 Label]
+         IngreseelvalordelalongitudendecimalesEditField: [1×1 NumericEditField]
+                          EnGradosMinutosySegundosLabel: [1×1 Label]
+                                           LatitudLabel: [1×1 Label]
+                                          LongitudLabel: [1×1 Label]
+                 IngreseelvalordelaalturaEditFieldLabel: [1×1 Label]
+                      IngreseelvalordelaalturaEditField: [1×1 NumericEditField]
+                                         CalcularButton: [1×1 Button]
+                                       CalcularButton_2: [1×1 Button]
+                                       CalcularButton_3: [1×1 Button]
+         TiposdeElipsodidesalquedeseaustedcalcularLabel: [1×1 Label]
+                                             GRS80Label: [1×1 Label]
+                                       CalcularButton_4: [1×1 Button]
+                                       CalcularButton_5: [1×1 Button]
+                                             WGS84Label: [1×1 Label]
+                                           HayfordLabel: [1×1 Label]
+                                   GradosEditFieldLabel: [1×1 Label]
+                                        GradosEditField: [1×1 NumericEditField]
+                                  MinutosEditFieldLabel: [1×1 Label]
+                                       MinutosEditField: [1×1 NumericEditField]
+                                 SegundosEditFieldLabel: [1×1 Label]
+                                      SegundosEditField: [1×1 NumericEditField]
+                                 GradosEditField_2Label: [1×1 Label]
+                                      GradosEditField_2: [1×1 NumericEditField]
+                                MinutosEditField_2Label: [1×1 Label]
+                                     MinutosEditField_2: [1×1 NumericEditField]
+                                 SegunfosEditFieldLabel: [1×1 Label]
+                                      SegunfosEditField: [1×1 NumericEditField]
+                                       CalcularButton_6: [1×1 Button]
+                                           GRS80Label_2: [1×1 Label]
+                                           WGS84Label_2: [1×1 Label]
+                                         HayfordLabel_2: [1×1 Label]
+                 IngreseelvalordelaAlturaEditFieldLabel: [1×1 Label]
+                      IngreseelvalordelaAlturaEditField: [1×1 NumericEditField]
+                                       CalcularButton_7: [1×1 Button]
+                                       CalcularButton_8: [1×1 Button]
+                                       CalcularButton_9: [1×1 Button]
+                                           GRS80Label_3: [1×1 Label]
+                                           WGS84Label_3: [1×1 Label]
+                                         HayfordLabel_3: [1×1 Label]
+                                      xEditField_3Label: [1×1 Label]
+                                           xEditField_3: [1×1 EditField]
+                                      yEditField_3Label: [1×1 Label]
+                                           yEditField_3: [1×1 EditField]
+                                      zEditField_3Label: [1×1 Label]
+                                           zEditField_3: [1×1 EditField]
+                                      xEditField_4Label: [1×1 Label]
+                                           xEditField_4: [1×1 EditField]
+                                      yEditField_4Label: [1×1 Label]
+                                           yEditField_4: [1×1 EditField]
+                                      zEditField_4Label: [1×1 Label]
+                                           zEditField_4: [1×1 EditField]
+                                                NButton: [1×1 Button]
+                                                SButton: [1×1 Button]
+                                                EButton: [1×1 Button]
+                                                OButton: [1×1 Button]
+                                                   Tab2: [1×1 Tab]
+                                             RightPanel: [1×1 Panel]
+                                                      x: 0
+                                                      y: 0
+                                                      z: 0
+                                                latitud: 0
+                                               longitud: 0
+                                                 altura: 0
+                                                Latitud: 0
+                                               Longitud: 0
+                                               Latitud1: 0
+                                              Longitud1: 0
+                                                     v1: 78
+                                                     v2: 30
+                                                     v3: 0.986320000000000
+                                                    v11: 0
+                                                    v12: 15
+                                                    v13: 12.231540000000001
+                                                   Este: 0
+                                                  Norte: [1×1 Button]
+                                                    Sur: 0
+                                                  Oeste: [1×1 Button]
+
+
+latitud =
+
+  Column 1
+
+                   0
+
+  Column 2
+
+  15.000000000000000
+
+  Column 3
+
+  12.231540000000001
+
+
+angleInDegrees =
+
+   0.253397650000000
+  78.500273977777780
+

@@ -1,0 +1,200 @@
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+1
+Usted ha escogido (A) Transformación de Coordenadas Cartesianas a Geodésicas
+Escriba por favor la coordenada en x: 
+1272052.16317
+Escriba por favor la coordenada en y: 
+-6252489.17
+Escriba por favor la coordenada en z: 
+-28030.22866
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+
+e1 =
+
+   0.006694380022901
+
+
+b =
+
+     6.356752314140356e+06
+
+
+e2 =
+
+   0.006739496775479
+
+Calculamos p su valor es: 
+
+p =
+
+     6.380575015372264e+06
+
+Calculamos el valor de landa el cual es: 
+
+la =
+
+ -78.500273976047367
+
+
+la1 =
+
+   -79
+
+Calculamos el valor de fi el cual es: 
+
+fi =
+
+  -0.259278775606999
+
+
+fi1 =
+
+     0
+
+Determinamos radio N de la primera vertical: 
+
+N =
+
+     6378137
+
+El valor de N es Calculamos el valor de h el cual es: 
+
+h =
+
+     2.438015372264199e+03
+
+
+ans =
+
+        2438
+
+Se presenta el valor del ángulo latitudinal y longitudinal en gradis minutos y segundos: 
+[Warning: Reshaping input into 2-by-1 column vector.  Output will be 2-by-3.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('degrees2dms', 'C:\Program Files\Polyspace\R2020b\toolbox\map\map\degrees2dms.m', 57)" style="font-weight:bold">degrees2dms</a> (<a href="matlab: opentoline('C:\Program Files\Polyspace\R2020b\toolbox\map\map\degrees2dms.m',57,0)">line 57</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('geodesiccomputs', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\geodesiccomputs.m', 63)" style="font-weight:bold">geodesiccomputs</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\geodesiccomputs.m',63,0)">line 63</a>)] 
+
+dms =
+
+     0     0     0
+   -79     0     0
+
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+4
+Usted ha escogido (D) Cálculo de la Longitud de un Arco de Paralelo
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 si no lo es: (1)Verdadero, (2)Falso1
+Tenga la gentileza de escribir el ángulo Phi como un vector donde cada valor esté separado por un espacio, así Phi=[g m s] donde g= el número en grados m=minutos s=segundos: 
+[30 0 0]
+Tenga la gentileza de escribir el ángulo Landa1 como un vector donde cada valor esté separado por un espacio, así Landa1=[g m s] donde g= el número en grados m=minutos s=segundos: 
+[0 45 46.8882]
+Tenga la gentileza de escribir el ángulo Landa2 como un vector donde cada valor esté separado por un espacio, así Landa2=[g m s] donde g= el número en grados m=minutos s=segundos: 
+[54 32 19.354]
+
+dms =
+
+  30.000000000000000                   0                   0
+                   0  45.000000000000000  46.888199999999998
+  54.000000000000000  32.000000000000000  19.353999999999999
+
+
+angleInDegrees =
+
+                        30
+                 0.7630245
+          54.5387094444444
+
+
+Phi1 =
+
+    30
+
+
+Landa3 =
+
+                 0.7630245
+
+
+Landa4 =
+
+          54.5387094444444
+
+El valor de Landa1 en radianes es: 0.01332'
+El valor de Landa2 en radianes es: 0.95188'
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+
+e1 =
+
+       0.00669438002290079
+
+Calculamos el radio del paralelo: 
+El valor de Rp es: 5528256.63932'
+Calculamos la longitud de arco de un paralelo: 
+El valor de Sp es: 5188615.80825'
+diary off

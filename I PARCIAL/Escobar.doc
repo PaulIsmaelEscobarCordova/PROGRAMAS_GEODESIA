@@ -1,0 +1,2004 @@
+disp('Valores de Geodesia X,Y,Z')
+Valores de Geodesia X,Y,Z
+% 1 VALOR
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38125981
+Escriba por favor el ángulo en la: 
+-77.2336577
+Escriba por favor la coordenada en H: 
+455.17228
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.85498'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1408304.34421'
+Calculamos Y
+El valor de y es: -6215573.10426'
+Calculamos Z
+El valor de z es: -263250.71697'
+%2 VALOR
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38071845
+Escriba por favor el ángulo en la: 
+-77.5027889
+Escriba por favor la coordenada en H: 
+454.87457
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83824'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379093.44020'
+Calculamos Y
+El valor de y es: -6222121.77099'
+Calculamos Z
+El valor de z es: -263190.89046'
+% 3 VALOR
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38023417
+Escriba por favor el ángulo en la: 
+-77.5026432
+Escriba por favor la coordenada en H: 
+454.341382
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.82326'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379109.62877'
+Calculamos Y
+El valor de y es: -6222119.91556'
+Calculamos Z
+El valor de z es: -263137.36085'
+% 4 VALOR
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38111711
+Escriba por favor el ángulo en la: 
+-77.5027661
+Escriba por favor la coordenada en H: 
+454.240357
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.85057'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379095.38277'
+Calculamos Y
+El valor de y es: -6222118.81550'
+Calculamos Z
+El valor de z es: -263234.91152'
+%  VALOR
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38109549
+Escriba por favor el ángulo en la: 
+-77.5027687
+Escriba por favor la coordenada en H: 
+453.9005
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.84990'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379095.04844'
+Calculamos Y
+El valor de y es: -6222118.64354'
+Calculamos Z
+El valor de z es: -263232.50864'
+% 6TO VALOR
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38112503
+Escriba por favor el ángulo en la: 
+-77.5028748
+Escriba por favor la coordenada en H: 
+454.387812
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.85081'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379083.60234'
+Calculamos Y
+El valor de y es: -6222121.54019'
+Calculamos Z
+El valor de z es: -263235.79272'
+%7 VALOR
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38110632
+Escriba por favor el ángulo en la: 
+-77.5028756
+Escriba por favor la coordenada en H: 
+453.597724
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.85023'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379083.36325'
+Calculamos Y
+El valor de y es: -6222120.87266'
+Calculamos Z
+El valor de z es: -263233.69265'
+% 8VO VALOR
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38105649
+Escriba por favor el ángulo en la: 
+-77.5027122
+Escriba por favor la coordenada en H: 
+454.415879
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.84869'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379101.33434'
+Calculamos Y
+El valor de y es: -6222117.96126'
+Calculamos Z
+El valor de z es: -263228.22099'
+% 9 
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.3807738
+Escriba por favor el ángulo en la: 
+-77.5027501
+Escriba por favor la coordenada en H: 
+454.410843
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83995'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379097.49847'
+Calculamos Y
+El valor de y es: -6222120.13650'
+Calculamos Z
+El valor de z es: -263196.98674'
+% 10 
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38077421
+Escriba por favor el ángulo en la: 
+-77.5027671
+Escriba por favor la coordenada en H: 
+454.450244
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83996'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379095.66044'
+Calculamos Y
+El valor de y es: -6222120.58228'
+Calculamos Z
+El valor de z es: -263197.03368'
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38076679
+Escriba por favor el ángulo en la: 
+-77.5027667
+Escriba por favor la coordenada en H: 
+454.446305
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83973'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379095.71040'
+Calculamos Y
+El valor de y es: -6222120.60209'
+Calculamos Z
+El valor de z es: -263196.21369'
+%12
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38076419
+Escriba por favor el ángulo en la: 
+-77.5027406
+Escriba por favor la coordenada en H: 
+454.23374
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83965'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379098.50140'
+Calculamos Y
+El valor de y es: -6222119.77818'
+Calculamos Z
+El valor de z es: -263195.91759'
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38080765
+Escriba por favor el ángulo en la: 
+-77.5027442,
+Escriba por favor la coordenada en H: 
+454.507345
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.84100'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379098.12640'
+Calculamos Y
+El valor de y es: -6222119.93681'
+Calculamos Z
+El valor de z es: -263200.73079'
+%14
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38080598
+Escriba por favor el ángulo en la: 
+-77.5027356
+Escriba por favor la coordenada en H: 
+454.808487
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.84094'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379099.12710'
+Calculamos Y
+El valor de y es: -6222120.03105'
+Calculamos Z
+El valor de z es: -263200.55879'
+%15
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38080013
+Escriba por favor el ángulo en la: 
+-77.5026086
+Escriba por favor la coordenada en H: 
+454.822677
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.84076'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379112.92773'
+Calculamos Y
+El valor de y es: -6222117.01425'
+Calculamos Z
+El valor de z es: -263199.91302'
+%16
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38071649
+Escriba por favor el ángulo en la: 
+-77.5027091
+Escriba por favor la coordenada en H: 
+454.832249
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83818'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379102.09900'
+Calculamos Y
+El valor de y es: -6222119.81773'
+Calculamos Z
+El valor de z es: -263190.67214'
+%17
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38072203
+Escriba por favor el ángulo en la: 
+-77.5027735
+Escriba por favor la coordenada en H: 
+455.402123
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83835'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379095.22309'
+Calculamos Y
+El valor de y es: -6222121.89887'
+Calculamos Z
+El valor de z es: -263191.30792'
+%18
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38071284
+Escriba por favor el ángulo en la: 
+-77.5027751
+Escriba por favor la coordenada en H: 
+454.809247
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83806'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379094.93029'
+Calculamos Y
+El valor de y es: -6222121.40027'
+Calculamos Z
+El valor de z es: -263190.26790'
+%19
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38069546
+Escriba por favor el ángulo en la: 
+-77.5027717
+Escriba por favor la coordenada en H: 
+455.058523
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83753'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379095.37069'
+Calculamos Y
+El valor de y es: -6222121.63953'
+Calculamos Z
+El valor de z es: -263188.35796'
+%20
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38070242
+Escriba por favor el ángulo en la: 
+-77.5028836
+Escriba por favor la coordenada en H: 
+455.112696
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83774'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379083.22353'
+Calculamos Y
+El valor de y es: -6222124.35456'
+Calculamos Z
+El valor de z es: -263189.12922'
+%21
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38074042
+Escriba por favor el ángulo en la: 
+-77.5027957
+Escriba por favor la coordenada en H: 
+454.463098
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83892'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379092.59095'
+Calculamos Y
+El valor de y es: -6222121.43476'
+Calculamos Z
+El valor de z es: -263193.30080'
+%22
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38074472
+Escriba por favor el ángulo en la: 
+-77.5028186
+Escriba por favor la coordenada en H: 
+454.562388
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83905'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379090.12128'
+Calculamos Y
+El valor de y es: -6222122.06352'
+Calculamos Z
+El valor de z es: -263193.78003'
+%23
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38074517
+Escriba por favor el ángulo en la: 
+-77.5028269
+Escriba por favor la coordenada en H: 
+454.582797
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83906'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379089.22389'
+Calculamos Y
+El valor de y es: -6222122.28119'
+Calculamos Z
+El valor de z es: -263193.83060'
+%24
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38078456
+Escriba por favor el ángulo en la: 
+-77.5028244
+Escriba por favor la coordenada en H: 
+455.475281
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.84028'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379089.64919'
+Calculamos Y
+El valor de y es: -6222122.91494'
+Calculamos Z
+El valor de z es: -263198.21982'
+%25
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.3807792
+Escriba por favor el ángulo en la: 
+-77.5027917
+Escriba por favor la coordenada en H: 
+455.462557
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.84012'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379093.20287'
+Calculamos Y
+El valor de y es: -6222122.13949'
+Calculamos Z
+El valor de z es: -263197.62707'
+%26
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38076553
+Escriba por favor el ángulo en la: 
+-77.5027932
+Escriba por favor la coordenada en H: 
+456.51411
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83969'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379093.28092'
+Calculamos Y
+El valor de y es: -6222123.26266'
+Calculamos Z
+El valor de z es: -263196.16037'
+%27
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38076779
+Escriba por favor el ángulo en la: 
+-77.5028172
+Escriba por favor la coordenada en H: 
+456.469
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83976'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379090.66260'
+Calculamos Y
+El valor de y es: -6222123.78619'
+Calculamos Z
+El valor de z es: -263196.40820'
+%28
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38075176
+Escriba por favor el ángulo en la: 
+-77.5029084
+Escriba por favor la coordenada en H: 
+453.567435
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83927'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379080.14720'
+Calculamos Y
+El valor de y es: -6222123.22286'
+Calculamos Z
+El valor de z es: -263194.51654'
+%29
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38070504
+Escriba por favor el ángulo en la: 
+-77.5029068
+Escriba por favor la coordenada en H: 
+453.743081
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83782'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379080.40537'
+Calculamos Y
+El valor de y es: -6222123.56521'
+Calculamos Z
+El valor de z es: -263189.36180'
+%30
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38073097
+Escriba por favor el ángulo en la: 
+-77.5031942
+Escriba por favor la coordenada en H: 
+454.378445
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.83862'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379049.30630'
+Calculamos Y
+El valor de y es: -6222130.98619'
+Calculamos Z
+El valor de z es: -263192.25317'
+%31
+geodesiccomputs('A','B','C','D','E')
+Es un placer hacer los cálculos por usted ingeniero mi nombre es geodesiccomputs - Cálculos Geodésicos
+Fui programado por el estudiante Paul Ismael Escobar Córdova
+
+A =
+
+    'Transformación de Coordenadas Cartesianas a Geodésicas = 1'
+
+
+B =
+
+    'Transformación de Coordenadas Geodésicas a Cartesianas = 2'
+
+
+C =
+
+    'Cálculo de los principales radios de curvatura = 3'
+
+
+D =
+
+    'Cálculo de la longitud de un arco de paralelo = 4'
+
+
+E =
+
+    'Cálculo de la longitud de un arco de meridiano= 5'
+
+Conocidos los parámetros de cálculo por favor escriba uno de los parámetros: (1), (2), (3), (4) o (5): 
+2
+Usted ha escogido (B) Transformación de Coordenadas Geodésicas a Cartesianas
+¿Sus ángulos están en grados minutos y segundos o en grados sexagesimales? Escriba 1 si es verdadero o 2 sino lo es: (1)Verdader,(2)Falso 
+2
+Continue con el programa por favor. Asigne los valores requeridos a continuación
+Escriba por favor el ángulo en fi: 
+-2.38077653
+Escriba por favor el ángulo en la: 
+-77.5031903
+Escriba por favor la coordenada en H: 
+454.598631
+Para que sistema de elipsoide desea usted: (1) GRS 80, (2) WGS84, (3) HAYFORD: 
+ 1
+
+Op =
+
+     1
+
+Calculo de la primera excentricidad con GRS80: 
+
+e1 =
+
+   0.006694380022901
+
+Determinamos radio N de la primera vertical: 
+El valor de N es: 6378173.84003'
+Determinamos las coordenadas cartesianas: 
+Calculamos X
+El valor de x es: 1379049.73214'
+Calculamos Y
+El valor de y es: -6222130.90278'
+Calculamos Z
+El valor de z es: -263197.29618'
+%HEMOS CALCULADO LOS X,Y,Z DE CADA COORDENADA ESTAN EN EL ITRF20 EPOCA 2023.51
+% AHORA VAMOS A CALCULAR EL CAMBIO ÉPOCA 
+epoch([1277936.90494;-6251278.0;-34832.38714],[0.00529;0.00269;0.00960],2020,2016)
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('epoch', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m', 3)" style="font-weight:bold">epoch</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m',3,0)">line 3</a>)
+r=zeros(1,n);
+} 
+epoch([1277936.90494;-6251278.0;-34832.38714],[0.00529;0.00269;0.00960],2020,2016,2)
+{Unable to perform assignment because the left and right sides have a
+different number of elements.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('epoch', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m', 5)" style="font-weight:bold">epoch</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m',5,0)">line 5</a>)
+        r(i)= c+v*(e2-e1)
+} 
+epoch([1277936.90494;-6251278.0;-34832.38714],[0.00529;0.00269;0.00960],2020,2016,2)
+{Unable to perform assignment because the left and right sides have a
+different number of elements.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('epoch', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m', 5)" style="font-weight:bold">epoch</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m',5,0)">line 5</a>)
+        r(i)= c+v*(e2-e1)
+} 
+epoch([1277936.90494;-6251278.0;-34832.38714],[0.00529;0.00269;0.00960],2020,2016,2)
+          <strong>X</strong>                <strong>Y</strong>                <strong>Z</strong>      
+    <strong>_____________</strong>    <strong>______________</strong>    <strong>____________</strong>
+
+    1277936.88378    -6251278.01076    -34832.42554
+    1277936.88378    -6251278.01076    -34832.42554
+
+epoch(2)
+Ingresando valores para el cálculo 1:
+Por favor, ingrese el valor de c: [1277936.90494;-6251278.0;-34832.38714]
+Por favor, ingrese el valor de v: ,[0.00529;0.00269;0.00960]
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('epoch', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m', 12)" style="font-weight:bold">epoch</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m',12,0)">line 12</a>)
+Error: Invalid expression. Check for missing or extra characters.
+} 
+Por favor, ingrese el valor de v: [0.00529;0.00269;0.00960]
+Por favor, ingrese el valor de e1: 2020
+Por favor, ingrese el valor de e2: 2016
+Ingresando valores para el cálculo 2:
+Por favor, ingrese el valor de c: [0.00529;0.00269;0.00960]
+Por favor, ingrese el valor de v: [1277936.90494;-6251278.0;-34832.38714]
+Por favor, ingrese el valor de e1: 2020
+Por favor, ingrese el valor de e2: 2016
+          <strong>X</strong>                 <strong>Y</strong>                <strong>Z</strong>      
+    <strong>______________</strong>    <strong>______________</strong>    <strong>____________</strong>
+
+     1277936.88378    -6251278.01076    -34832.42554
+    -5111747.61447    25005112.00269    139329.55816
+
+diary off

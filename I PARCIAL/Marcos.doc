@@ -1,0 +1,300 @@
+disp('Transformación entre Marcos de Referencia')
+Transformación entre Marcos de Referencia
+disp('2020-2008--> ITRF 2020 AL ITRF 2008')
+2020-2008--> ITRF 2020 AL ITRF 2008
+marcos(2)
+Ingresando valores para el cálculo 1:
+Por favor, ingrese el valor de T: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('marcos', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\marcos.m', 11)" style="font-weight:bold">marcos</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\marcos.m',11,0)">line 11</a>)
+} 
+marcos(31)
+Ingresando valores para el cálculo 1:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1408304.27341;-6215573.17506;-263250.78777]
+Ingresando valores para el cálculo 2:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379093.3694;-6222121.84179;-263190.96126]
+Ingresando valores para el cálculo 3:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379109.55797;-6222119.98636;-263137.43165]
+Ingresando valores para el cálculo 4:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379095.31197;-6222118.8863;-263234.98232]
+Ingresando valores para el cálculo 5:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379094.97764;-6222118.71434;-263232.57944]
+Ingresando valores para el cálculo 6:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379083.53154;-6222121.61099;-263235.86352]
+Ingresando valores para el cálculo 7:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379083.29245;-6222120.94346;-263233.76345]
+Ingresando valores para el cálculo 8:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379101.26354;-6222118.03206;-263228.29179]
+Ingresando valores para el cálculo 9:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379097.42767;-6222120.2073;-263197.05754]
+Ingresando valores para el cálculo 10:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379095.58964;-6222120.65308;-263197.10448]
+Ingresando valores para el cálculo 11:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379095.6396;-6222120.67289;-263196.28449]
+Ingresando valores para el cálculo 12:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379098.4306;-6222119.84898;-263195.98839]
+Ingresando valores para el cálculo 13:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379098.0556;-6222120.00761;-263200.80159]
+Ingresando valores para el cálculo 14:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379099.0563;-6222120.1018;-263200.62959]
+Ingresando valores para el cálculo 15:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379112.85693;-6222117.08505;-263199.98382]
+Ingresando valores para el cálculo 16:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379102.0282    -6222119.88853    -263190.74294]
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+Incorrect dimensions for matrix multiplication. Check that the number of columns in the first matrix matches the number of rows in
+the second matrix. To perform elementwise multiplication, use '.*'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('marcos', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\marcos.m', 16)" style="font-weight:bold">marcos</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\marcos.m',16,0)">line 16</a>)
+    resultado = T+(1+d)*Mr*c; % Esto debe resultar en un vector de 3x1 - Ecuación de Helmert
+
+<a href="matlab:helpview('matlab','error_innerdim')" style="font-weight:bold">Related documentation</a>
+} 
+[1379102.0282;-6222119.88853;-263190.74294]
+
+ans =
+
+   1.0e+06 *
+
+   1.379102028200000
+  -6.222119888530000
+  -0.263190742940000
+
+marcos(31)
+Ingresando valores para el cálculo 1:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1408304.27341;-6215573.17506;-263250.78777]
+Ingresando valores para el cálculo 2:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379093.3694;-6222121.84179;-263190.96126]
+Ingresando valores para el cálculo 3:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379109.55797;-6222119.98636;-263137.43165]
+Ingresando valores para el cálculo 4:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379095.31197;-6222118.8863;-263234.98232]
+Ingresando valores para el cálculo 5:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379094.97764;-6222118.71434;-263232.57944]
+Ingresando valores para el cálculo 6:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379083.53154;-6222121.61099;-263235.86352]
+Ingresando valores para el cálculo 7:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379083.29245;-6222120.94346;-263233.76345]
+Ingresando valores para el cálculo 8:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379101.26354;-6222118.03206;-263228.29179]
+Ingresando valores para el cálculo 9:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379097.42767;-6222120.2073;-263197.05754]
+Ingresando valores para el cálculo 10:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379095.58964;-6222120.65308;-263197.10448]
+Ingresando valores para el cálculo 11:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379095.6396;-6222120.67289;-263196.28449]
+Ingresando valores para el cálculo 12:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379098.4306;-6222119.84898;-263195.98839]
+Ingresando valores para el cálculo 13:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379098.0556;-6222120.00761;-263200.80159]
+Ingresando valores para el cálculo 14:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379099.0563;-6222120.1018;-263200.62959]
+Ingresando valores para el cálculo 15:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379112.85693;-6222117.08505;-263199.98382]
+Ingresando valores para el cálculo 16:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379102.0282;-6222119.88853;-263190.74294]
+Ingresando valores para el cálculo 17:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379095.15229;-6222121.96967;-263191.37872]
+Ingresando valores para el cálculo 18:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379094.85949;-6222121.47107;-263190.3387]
+Ingresando valores para el cálculo 19:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379095.29989;-6222121.71033;-263188.42876]
+Ingresando valores para el cálculo 20:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379083.15273;-6222124.42536;-263189.20002]
+Ingresando valores para el cálculo 21:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379092.52015;-6222121.50556;-263193.3716]
+Ingresando valores para el cálculo 22:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379090.05048;-6222122.13432;-263193.85083]
+Ingresando valores para el cálculo 23:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379089.15309;-6222122.35199;-263193.9014]
+Ingresando valores para el cálculo 24:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379089.57839;-6222122.98574;-263198.29062]
+Ingresando valores para el cálculo 25:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379093.13207;-6222122.21029;-263197.69787]
+Ingresando valores para el cálculo 26:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379093.21012;-6222123.33346;-263196.23117]
+Ingresando valores para el cálculo 27:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379090.5918;-6222123.85699;-263196.479]
+Ingresando valores para el cálculo 28:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379080.0764;-6222123.29366;-263194.58734]
+Ingresando valores para el cálculo 29:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379080.33457;-6222123.63601;-263189.4326]
+Ingresando valores para el cálculo 30:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379049.2355;-6222131.05699;-263192.32397]
+Ingresando valores para el cálculo 31:
+Por favor, ingrese el valor de T: [0.2;1.0;3.3]
+Por favor, ingrese el valor de d: (1+(-0.29*10^-9))
+Por favor, ingrese el valor de Mr: [1 0 0;0 1 0;0 0 1]
+Por favor, ingrese el valor de c: [1379049.66134;-6222130.97358;-263197.36698]
+    <strong>N</strong>            <strong>X</strong>                    <strong>Y</strong>                    <strong>Z</strong>        
+    <strong>__</strong>    <strong>________________</strong>    <strong>_________________</strong>    <strong>_________________</strong>
+
+     1    2816608.74641159    -12431145.3483175    -526498.275463657
+     2    2758186.93840006    -12444242.6817756    -526378.622443675
+     3    2758219.31554006    -12444238.9709156     -526271.56322369
+     4    2758190.82354006    -12444236.7707956    -526466.664563662
+     5    2758190.15488006    -12444236.4268756    -526461.858803662
+     6    2758167.26268007    -12444242.2201756    -526468.426963662
+     7    2758166.78450007    -12444240.8851156    -526464.226823662
+     8    2758202.72668006    -12444235.0623156    -526453.283503664
+     9    2758195.05494006    -12444239.4127956    -526390.815003673
+    10    2758191.37888006    -12444240.3043556    -526390.908883673
+    11    2758191.47880006    -12444240.3439756    -526389.268903673
+    12    2758197.06080006    -12444238.6961556    -526388.676703673
+    13    2758196.31080006    -12444239.0134156    -526398.303103672
+    14    2758198.31220006    -12444239.2017956    -526397.959103672
+    15    2758225.91346006    -12444233.1682956    -526396.667563672
+    16    2758204.25600006    -12444238.7752556    -526378.185803675
+    17    2758190.50418006    -12444242.9375356    -526379.457363674
+    18    2758189.91858006    -12444241.9403356    -526377.377323675
+    19    2758190.79938006    -12444242.4188556    -526373.557443675
+    20    2758166.50506007    -12444247.8489156    -526375.099963675
+    21    2758185.23990006    -12444242.0093156    -526383.443123674
+    22    2758180.30056006    -12444243.2668356    -526384.401583674
+    23    2758178.50578006    -12444243.7021756    -526384.502723674
+    24    2758179.35638006    -12444244.9696756    -526393.281163672
+    25    2758186.46374006    -12444243.4187756    -526392.095663673
+    26    2758186.61984006    -12444245.6651156    -526389.162263673
+    27    2758181.38320006    -12444246.7121756    -526389.657923673
+    28    2758160.35240007    -12444245.5855156    -526385.874603674
+    29    2758160.86874007    -12444246.2702156    -526375.565123675
+    30    2758098.67060008    -12444261.1121756    -526381.347863674
+    31    2758099.52228008    -12444260.9453556    -526391.433883673
+
+diary off

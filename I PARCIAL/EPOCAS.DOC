@@ -1,0 +1,303 @@
+disp('VAMOS A TRANSFORMAR PRIMERO LAS ÉPOCAS PARA DESPUES LOS MARCOS')
+VAMOS A TRANSFORMAR PRIMERO LAS ÉPOCAS PARA DESPUES LOS MARCOS
+epoch(31)
+Ingresando valores para el cálculo 1:
+Por favor, ingrese el valor de c: 1408304.34421
+Por favor, ingrese el valor de v: -6215573.10426
+Por favor, ingrese el valor de e1: -263250.71697
+Por favor, ingrese el valor de e2: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('epoch', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m', 14)" style="font-weight:bold">epoch</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m',14,0)">line 14</a>)
+} 
+clc
+epoch(31)
+Ingresando valores para el cálculo 1:
+Por favor, ingrese el valor de c: 1408304.34421
+Por favor, ingrese el valor de v: -6215573.10426
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('epoch', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m', 20)" style="font-weight:bold">epoch</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m',20,0)">line 20</a>)
+El resultado no tiene tres elementos.
+} 
+clc
+epoch(31)
+Ingresando valores para el cálculo 1:
+Por favor, ingrese el valor de c: [1408304.34421;-6215573.10426;-263250.71697]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 2:
+Por favor, ingrese el valor de c: [1379093.44020;-6222121.77099;-263190.89046]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 3:
+Por favor, ingrese el valor de c: [1379109.62877;-6222119.91556;-263137.36085]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 4:
+Por favor, ingrese el valor de c: [1379095.38277;-6222118.81550;-263234.91152]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 5:
+Por favor, ingrese el valor de c: [1379095.04844;-6222118.64354;-263232.50864]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 6:
+Por favor, ingrese el valor de c: [1379083.60234;-6222121.54019;-263235.79272]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 7:
+Por favor, ingrese el valor de c: [1379083.36325;-6222120.87266;-263233.69265]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 8:
+Por favor, ingrese el valor de c: [1379101.33434;-6222117.96126;-263228.22099]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 9:
+Por favor, ingrese el valor de c: [1379097.49847;-6222120.13650;-263196.98674]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 10:
+Por favor, ingrese el valor de c: [1379095.66044;-6222120.58228;-263197.03368]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 11:
+Por favor, ingrese el valor de c: [1379095.71040;-6222120.60209;-263196.21369]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 12:
+Por favor, ingrese el valor de c: [1379098.50140;-6222119.77818;-263195.91759]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 13:
+Por favor, ingrese el valor de c: 1379098.12640
+Por favor, ingrese el valor de v: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('epoch', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m', 12)" style="font-weight:bold">epoch</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m',12,0)">line 12</a>)
+} 
+clc
+epoch(31)
+Ingresando valores para el cálculo 1:
+Por favor, ingrese el valor de c: [1408304.34421;-6215573.10426;-263250.71697]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 2:
+Por favor, ingrese el valor de c: [1379093.44020;-6222121.77099;-263190.89046]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 3:
+Por favor, ingrese el valor de c: [1379109.62877;-6222119.91556;-263137.36085]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 4:
+Por favor, ingrese el valor de c: [1379095.38277;-6222118.81550;-263234.91152]
+Por favor, ingrese el valor de v: 2023.51
+Por favor, ingrese el valor de e1: 2016.43
+Por favor, ingrese el valor de e2: {Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('epoch', 'C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m', 14)" style="font-weight:bold">epoch</a> (<a href="matlab: opentoline('C:\Users\Usuario\Desktop\FOLDER''S\UNIVERSIDAD\IV SEMESTRE\GEODESIA\I PARCIAL\PROGRAMAS_GEODESIA\I PARCIAL\epoch.m',14,0)">line 14</a>)
+} 
+clc
+clear all
+clc
+epoch(31)
+Ingresando valores para el cálculo 1:
+Por favor, ingrese el valor de c: [1408304.34421;-6215573.10426;-263250.71697]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 2:
+Por favor, ingrese el valor de c: [1379093.44020;-6222121.77099;-263190.89046]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 3:
+Por favor, ingrese el valor de c: [1379109.62877;-6222119.91556;-263137.36085]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 4:
+Por favor, ingrese el valor de c: [1379095.38277;-6222118.81550;-263234.91152]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 5:
+Por favor, ingrese el valor de c: [1379095.04844;-6222118.64354;-263232.50864]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 6:
+Por favor, ingrese el valor de c: [1379083.60234;-6222121.54019;-263235.79272]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 7:
+Por favor, ingrese el valor de c: [1379083.36325;-6222120.87266;-263233.69265]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 8:
+Por favor, ingrese el valor de c: [1379101.33434;-6222117.96126;-263228.22099]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 9:
+Por favor, ingrese el valor de c: [1379097.49847;-6222120.13650;-263196.98674]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 10:
+Por favor, ingrese el valor de c: [1379095.66044;-6222120.58228;-263197.03368]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 11:
+Por favor, ingrese el valor de c: [1379095.71040;-6222120.60209;-263196.21369]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 12:
+Por favor, ingrese el valor de c: [1379098.50140;-6222119.77818;-263195.91759]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 13:
+Por favor, ingrese el valor de c: [1379098.12640;-6222119.93681;-263200.73079]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 14:
+Por favor, ingrese el valor de c: [1379099.12710;-6222120.0310;-263200.55879]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 15:
+Por favor, ingrese el valor de c: [1379112.92773;-6222117.01425;-263199.91302]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 16:
+Por favor, ingrese el valor de c: [1379102.09900;-6222119.81773;-263190.67214]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 17:
+Por favor, ingrese el valor de c: [1379095.22309;-6222121.89887;-263191.30792]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 18:
+Por favor, ingrese el valor de c: [1379094.93029;-6222121.40027;-263190.26790]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 19:
+Por favor, ingrese el valor de c: [1379095.37069;-6222121.63953;-263188.35796]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 20:
+Por favor, ingrese el valor de c: [1379083.22353;-6222124.35456;-263189.12922]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 21:
+Por favor, ingrese el valor de c: [1379092.59095;-6222121.43476;-263193.30080]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 22:
+Por favor, ingrese el valor de c: [1379090.12128;-6222122.06352;-263193.78003]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 23:
+Por favor, ingrese el valor de c: [1379089.22389;-6222122.28119;-263193.83060]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 24:
+Por favor, ingrese el valor de c: [1379089.64919;-6222122.91494;-263198.21982]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 25:
+Por favor, ingrese el valor de c: [1379093.20287;-6222122.13949;-263197.62707]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 26:
+Por favor, ingrese el valor de c: [1379093.28092;-6222123.26266;-263196.16037]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 27:
+Por favor, ingrese el valor de c: [1379090.66260;-6222123.78619;-263196.40820]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 28:
+Por favor, ingrese el valor de c: [1379080.14720;-6222123.22286;-263194.51654]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 29:
+Por favor, ingrese el valor de c: [1379080.40537;-6222123.56521;-263189.36180]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 30:
+Por favor, ingrese el valor de c: [1379049.30630;-6222130.98619;-263192.25317]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+Ingresando valores para el cálculo 31:
+Por favor, ingrese el valor de c: [1379049.73214;-6222130.90278;-263197.29618]
+Por favor, ingrese el valor de v: [0.01;0.01;0.01]
+Por favor, ingrese el valor de e1: 2023.51
+Por favor, ingrese el valor de e2: 2016.43
+    <strong>N</strong>           <strong>X</strong>                <strong>Y</strong>                 <strong>Z</strong>      
+    <strong>__</strong>    <strong>_____________</strong>    <strong>______________</strong>    <strong>_____________</strong>
+
+     1    1408304.27341    -6215573.17506    -263250.78777
+     2     1379093.3694    -6222121.84179    -263190.96126
+     3    1379109.55797    -6222119.98636    -263137.43165
+     4    1379095.31197     -6222118.8863    -263234.98232
+     5    1379094.97764    -6222118.71434    -263232.57944
+     6    1379083.53154    -6222121.61099    -263235.86352
+     7    1379083.29245    -6222120.94346    -263233.76345
+     8    1379101.26354    -6222118.03206    -263228.29179
+     9    1379097.42767     -6222120.2073    -263197.05754
+    10    1379095.58964    -6222120.65308    -263197.10448
+    11     1379095.6396    -6222120.67289    -263196.28449
+    12     1379098.4306    -6222119.84898    -263195.98839
+    13     1379098.0556    -6222120.00761    -263200.80159
+    14     1379099.0563     -6222120.1018    -263200.62959
+    15    1379112.85693    -6222117.08505    -263199.98382
+    16     1379102.0282    -6222119.88853    -263190.74294
+    17    1379095.15229    -6222121.96967    -263191.37872
+    18    1379094.85949    -6222121.47107     -263190.3387
+    19    1379095.29989    -6222121.71033    -263188.42876
+    20    1379083.15273    -6222124.42536    -263189.20002
+    21    1379092.52015    -6222121.50556     -263193.3716
+    22    1379090.05048    -6222122.13432    -263193.85083
+    23    1379089.15309    -6222122.35199     -263193.9014
+    24    1379089.57839    -6222122.98574    -263198.29062
+    25    1379093.13207    -6222122.21029    -263197.69787
+    26    1379093.21012    -6222123.33346    -263196.23117
+    27     1379090.5918    -6222123.85699      -263196.479
+    28     1379080.0764    -6222123.29366    -263194.58734
+    29    1379080.33457    -6222123.63601     -263189.4326
+    30     1379049.2355    -6222131.05699    -263192.32397
+    31    1379049.66134    -6222130.97358    -263197.36698
+
+diary off
