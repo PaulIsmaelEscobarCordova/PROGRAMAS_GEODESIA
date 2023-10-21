@@ -317,6 +317,6 @@ elseif (P==B)
     end
 end
 D=[Fi1,Landa1]
-I=[az,sm]
+I=[az,Sm]
 end
 

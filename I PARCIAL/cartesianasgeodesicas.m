@@ -1,10 +1,8 @@
 function [p,la,fi,h,d] = cartesianasgeodesicas(x,y,z) 
 % Conversión de Cordenadas cartesianas espaciales a geodésicas.
 % GRS 80 SISTEMA GEODÉSICO DEL ECUADOR
-%a= 6378137.0;
-%f= 1/298.257222101;
-a=6000000;
-f=1/497;
+a= 6378137.0;
+f= 1/298.257222101;
 % wgs 84 
 a1= 6378137.0;
 f1= 1/298.257223563;
@@ -24,7 +22,7 @@ P=input('Escribir el tipo de parámetro para la conversión: (1) GRS 80, (2) WGS
             fprintf('Calculamos el valor de landa el cual es: \n')
             la= atand(y/x)
             la1=round(la)
-            teta= atand((z*a)/(p*b));
+            teta= atand((z*a)/(p*b))
             fprintf('Calculamos el valor de fi el cual es: \n')
             fi= atand((z+e2*b*sin(teta)^3)/(p-e1*a*cos(teta)^3))
             fi1=round(fi)
